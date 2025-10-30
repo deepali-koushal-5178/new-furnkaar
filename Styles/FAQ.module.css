@@ -1,0 +1,41 @@
+.faq {
+  padding: 80px 20px;
+  background: #fafafa;
+  text-align: center;
+}
+
+.faq h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.list {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.item {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: 0.3s;
+}
+
+.item:hover {
+  transform: translateY(-2px);
+}
+
+.item h3 {
+  color: #f68b1e;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.item p {
+  color: #555;
+  line-height: 1.5;
+}

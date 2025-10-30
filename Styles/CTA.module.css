@@ -1,0 +1,38 @@
+.cta {
+  background: linear-gradient(135deg, #f68b1e, #d67712);
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.cta h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.cta p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+.button {
+  background: white;
+  color: #f68b1e;
+  padding: 12px 28px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: #fff4e8;
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+.button {
+  animation: float 3s ease-in-out infinite;
+}

@@ -1,0 +1,66 @@
+.whychoose {
+  padding: 80px 20px;
+  background: #fffaf4;
+  text-align: center;
+}
+
+.whychoose h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.intro {
+  max-width: 700px;
+  margin: 0 auto 40px;
+  color: #555;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.features div {
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+.features div svg {
+  font-size: 2rem;
+  color: #c37a3d;
+  margin-bottom: 12px;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.features div:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  background-color: #fff5ea;
+}
+
+.features div:hover svg {
+  color: #a65a2e;
+  transform: scale(1.15) rotate(-5deg);
+}
+
+@media (max-width: 768px) {
+  .features {
+    grid-template-columns: 1fr;
+  }
+}
+

@@ -7,46 +7,46 @@ import Link from "next/link";
 
 
 export default function Navbar() {
-  const [scrolled, setScrolled] = useState(false);
-  const [menuOpen, setMenuOpen] = useState(false);
-  const [showLogin, setShowLogin] = useState(false);
-  const [isSignup, setIsSignup] = useState(false);
-  const [formData, setFormData] = useState({ email: "", password: "", confirm: "" });
-  const [successMsg, setSuccessMsg] = useState("");
-  const pathname = usePathname();
+  const [scrolled, setScrolled] = useState(false)
+  const [menuOpen, setMenuOpen] = useState(false)
+  const [showLogin, setShowLogin] = useState(false)
+  const [isSignup, setIsSignup] = useState(false)
+  const [formData, setFormData] = useState({ email: "", password: "", confirm: "" })
+  const [successMsg, setSuccessMsg] = useState("")
+  const pathname = usePathname()
 
   useEffect(() => {
-    const handleScroll = () => setScrolled(window.scrollY > 50);
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+    const handleScroll = () => setScrolled(window.scrollY > 50)
+    window.addEventListener("scroll", handleScroll)
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
 
-  const toggleMenu = () => setMenuOpen(!menuOpen);
+  const toggleMenu = () => setMenuOpen(!menuOpen)
   const toggleAuthMode = () => {
-    setIsSignup(!isSignup);
-    setFormData({ email: "", password: "", confirm: "" });
-    setSuccessMsg("");
+    setIsSignup(!isSignup)
+    setFormData({ email: "", password: "", confirm: "" })
+    setSuccessMsg("")
   };
 
   const handleChange = (e) => {
-    setFormData({ ...formData, [e.target.name]: e.target.value });
+    setFormData({ ...formData, [e.target.name]: e.target.value })
   };
 
   const handleSubmit = (e) => {
-    e.preventDefault();
+    e.preventDefault()
 
     if (isSignup && formData.password !== formData.confirm) {
-      setSuccessMsg("⚠️ Passwords do not match");
+      setSuccessMsg("Passwords do not match")
       return;
     }
 
-    setSuccessMsg(isSignup ? "🎉 Signup Successful!" : "✅ Login Successful!");
-    setFormData({ email: "", password: "", confirm: "" });
+    setSuccessMsg(isSignup ? "Signup Successful!" : "Login Successful!")
+    setFormData({ email: "", password: "", confirm: "" })
 
     setTimeout(() => {
-      setSuccessMsg("");
-      setShowLogin(false);
-    }, 2000);
+      setSuccessMsg("")
+      setShowLogin(false)
+    }, 2000)
   };
 
   return (
@@ -57,9 +57,9 @@ export default function Navbar() {
           ${pathname !== "/" ? styles.notHome : ""}`}
       >
         <div className={styles.logo}>
-          Shilpkaar
+          Furnkaar 
           <span className={styles.tagline}>
-            Factory-Finished Furniture for Modern Homes
+            The Signature Collection by Shilpkaar Furnitures
           </span>
         </div>
 
@@ -70,13 +70,13 @@ export default function Navbar() {
         <div className={`${styles.navLinks} ${menuOpen ? styles.open : ""}`}>
           <Link  href="/" className={pathname === "/" ? styles.active : ""}>Home</Link >
           <Link  href="/about" className={pathname === "/about" ? styles.active : ""}>About</Link >
-          <Link  href="/our-machines" className={pathname === "/our-machines" ? styles.active : ""}>Our Machines</Link >
+          <Link  href="/machines" className={pathname === "/machines" ? styles.active : ""}>Our Machines</Link >
           <Link  href="/catalog" className={pathname === "/catalog" ? styles.active : ""}>Product Catalog</Link >
           <Link  href="/faq" className={pathname === "/faq" ? styles.active : ""}>FAQ</Link >
           <Link  href="/contact" className={pathname === "/contact" ? styles.active : ""}>Contact</Link >
         </div>
 
-        <div className={styles.actions}>
+        {/* <div className={styles.actions}>
           <button
             className={styles.loginIcon}
             onClick={() => {
@@ -89,13 +89,13 @@ export default function Navbar() {
           >
             <FaUserCircle />
           </button>
-        </div>
+        </div> */}
       </nav>
 
-      {showLogin && (
+      {/* {showLogin && (
         <div className={styles.loginOverlay} onClick={() => setShowLogin(false)}>
           <div className={styles.loginModal} onClick={(e) => e.stopPropagation()}>
-            <h2>{isSignup ? "Create Account ✨" : "Welcome Back 👋"}</h2>
+            <h2>{isSignup ? "Create Account" : "Welcome Back"}</h2>
 
             <form onSubmit={handleSubmit}>
               <div className={styles.inputGroup}>
@@ -166,7 +166,7 @@ export default function Navbar() {
             </button>
           </div>
         </div>
-      )}
+      )} */}
     </>
   );
 }

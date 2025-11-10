@@ -16,7 +16,7 @@ export default function ContactPage() {
       <p>
         {/* <strong>Follow us:</strong> @shilpkaar_furnitures */}
       </p>
-      <p className={styles.copy}>© {new Date().getFullYear()} Shilpkaar Furnitures</p>
+      <p className={styles.copy}>© {new Date().getFullYear()} Furnkaar – The Signature Collection by Shilpkaar Furnitures</p>
     </footer>
   );
 }

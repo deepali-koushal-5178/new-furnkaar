@@ -11,6 +11,7 @@
   position: relative;
   top: 0;
   animation: floatUpDown 1.3s infinite ease-in-out;
+  text-align: center;
 }
 .floatingCTA {
   position: fixed;

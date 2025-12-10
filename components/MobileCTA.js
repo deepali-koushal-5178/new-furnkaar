@@ -18,7 +18,7 @@ export default function MobileCTA() {
 
   return (
     <a
-      href="https://wa.me/919999999999"
+      href="https://wa.me/918319266986"
       target="_blank"
       className={styles.mobileCTA}
     >

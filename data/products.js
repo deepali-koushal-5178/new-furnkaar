@@ -1,7 +1,7 @@
 export const items = [
   {
     id: "kitchen-1",
-    src: "/images/Kitchens/kitchen16.jpg",
+    src: "/images/Kitchens/kitchen17.jpg",
     name: "Modern Modular Kitchen",
     category: "Kitchens",
     alt: "Modern modular kitchen with glossy cabinets",
@@ -137,7 +137,7 @@ export const items = [
   },
   {
     id: "kitchen-17",
-    src: "/images/Kitchens/kitchen17.jpg",
+    src: "/images/Kitchens/kitchen16.jpg",
     name: "Industrial Style Kitchen",
     category: "Kitchens",
     alt: "Industrial look modular kitchen",
@@ -393,7 +393,7 @@ export const items = [
   // wardrobes
   {
     id: "wardrobe-1",
-    src: "/images/Sliding-Wardrobe/wb1.jpg",
+    src: "/images/Sliding-Wardrobe/wb22.jpg",
     name: "Textured Grey Sliding Wardrobe",
     category:  "Sliding-Wardrobes",
     alt: "Textured grey sliding wardrobe design",
@@ -573,7 +573,7 @@ export const items = [
   },
   {
     id: "wardrobe-21",
-    src: "/images/Sliding-Wardrobe/wb22.jpg",
+    src: "/images/Sliding-Wardrobe/wb1.jpg",
     name: "White Gloss Wardrobe",
     category: "Sliding-Wardrobes",
     alt: "White gloss sliding wardrobe",
@@ -767,7 +767,7 @@ export const items = [
   // double bed
   {
     id: "double-bed-1",
-    src: "/images/Double-Bed/db.jpg",
+    src: "/images/Double-Bed/db12.jpg",
     name: "Contemporary Upholstered Double Bed",
     category: "Double-Bed",
     alt: "Contemporary upholstered double bed design",
@@ -866,7 +866,7 @@ export const items = [
   },
   {
     id: "double-bed-12",
-    src: "/images/Double-Bed/db12.jpg",
+    src: "/images/Double-Bed/db.jpg",
     name: "Luxury Fabric Double Bed",
     category: "Double-Bed",
     alt: "Luxury fabric upholstered double bed",
@@ -1191,7 +1191,7 @@ export const items = [
   // dressing unit
   {
     id: "dressing-1",
-    src: "/images/Dressing-units/dressing.jpg",
+    src: "/images/Dressing-units/dressing3.jpg",
     name: "Modern Dressing Table",
     category: "Dressing-units",
     alt: "Modern dressing table with mirror and storage",
@@ -1218,7 +1218,7 @@ export const items = [
   },
   {
     id: "dressing-4",
-    src: "/images/Dressing-units/dressing3.jpg",
+    src: "/images/Dressing-units/dressing.jpg",
     name: "Luxury Walnut Dressing Table",
     category: "Dressing-units",
     alt: "Luxury walnut finish dressing unit",
@@ -1409,7 +1409,7 @@ export const items = [
   //working table
   {
     id: "working-table-1",
-    src: "/images/Working-tables/table.jpg",
+    src: "/images/Working-tables/table6.jpg",
     name: "Compact Study Table",
     category: "Working-tables",
     alt: "Compact study table with shelves and drawers",
@@ -1454,7 +1454,7 @@ export const items = [
   },
   {
     id: "working-table-6",
-    src: "/images/Working-tables/table6.jpg",
+    src: "/images/Working-tables/table.jpg",
     name: "Executive Office Desk",
     category: "Working-tables",
     alt: "Executive office desk with drawers",
@@ -1572,7 +1572,7 @@ export const items = [
   // study unit
   {
     id: "study-unit-1",
-    src: "/images/Study-Unit/unit.jpg",
+    src: "/images/Study-Unit/unit13.jpg",
     name: "L-Shaped Study Unit",
     category: "Study-Unit",
     alt: "L-shaped study unit with shelves",
@@ -1689,7 +1689,7 @@ export const items = [
   },
   {
     id: "study-unit-14",
-    src: "/images/Study-Unit/unit13.jpg",
+    src: "/images/Study-Unit/unit.jpg",
     name: "Wall Study Table with Storage",
     category: "Study-Unit",
     alt: "Wall study table with upper storage cabinets",
@@ -1790,7 +1790,7 @@ export const items = [
 
   {
     id: "hinged-wardrobe-1",
-    src: "/images/Hinged-Wardrobe/wb.jpg",
+    src: "/images/Hinged-Wardrobe/wb29.jpg",
     name: "Classic White Hinged Wardrobe",
     category: "Hinged-Wardrobe",
     alt: "Classic white hinged wardrobe design",
@@ -2051,7 +2051,7 @@ export const items = [
   },
   {
     id: "hinged-wardrobe-30",
-    src: "/images/Hinged-Wardrobe/wb29.jpg",
+    src: "/images/Hinged-Wardrobe/wb.jpg",
     name: "White Hinged Wardrobe",
     category: "Hinged-Wardrobe",
     alt: "White hinged wardrobe design",
@@ -2187,7 +2187,7 @@ export const items = [
   //   Executive-Table
   {
     id: "executive-table-1",
-    src: "/images/Executive-Table/tb1.jpg",
+    src: "/images/Executive-Table/tb17.jpg",
     name: "Classic Wooden Executive Table",
     category: "Executive-Table",
     alt: "Classic wooden executive table design",
@@ -2331,7 +2331,7 @@ export const items = [
   },
   {
     id: "executive-table-17",
-    src: "/images/Executive-Table/tb17.jpg",
+    src: "/images/Executive-Table/tb1.jpg",
     name: "Corner Executive Table with Return",
     category: "Executive-Table",
     alt: "Corner executive table with return desk",
@@ -2612,7 +2612,7 @@ export const items = [
   // Crockery-unit
   {
     id: "crockery-unit-1",
-    src: "/images/Crockery-unit/cc-unit.jpg",
+    src: "/images/Crockery-unit/cc-unit20.jpg",
     name: "Modern Glass Crockery Unit",
     category: "Crockery-unit",
     alt: "Modern glass crockery cabinet with lighting",
@@ -2783,7 +2783,7 @@ export const items = [
   },
   {
     id: "crockery-unit-20",
-    src: "/images/Crockery-unit/cc-unit20.jpg",
+    src: "/images/Crockery-unit/cc-unit.jpg",
     name: "Wooden Display Cabinet",
     category: "Crockery-unit",
     alt: "Wooden display cabinet with lighting",
@@ -2872,9 +2872,19 @@ export const items = [
     desc: "Compact tall crockery unit designed for narrow spaces with vertical storage layout.",
   },
   // Below-stairs
+    {
+    id: "below-stairs-9",
+    src: "/images/Below-stairs/stair9.jpg",
+    name: "LED Showcase Stair Storage",
+    category: "Below-stairs",
+    alt: "LED showcase under stairs unit",
+    price: "₹50,000 onwards",
+    desc: "Stylish below-stairs storage cabinet with LED lighting and open showcase display sections.",
+  },
+
   {
     id: "below-stairs-1",
-    src: "/images/Below-stairs/stair1.jpg",
+    src: "/images/Below-stairs/stair9.jpg",
     name: "Compact Below Stairs Storage",
     category: "Below-stairs",
     alt: "Compact under stairs storage cabinet",
@@ -2944,21 +2954,13 @@ export const items = [
     price: "₹46,000 onwards",
     desc: "Custom wardrobe fitted beneath the stairs — dual color tone design with matte finish.",
   },
-  {
-    id: "below-stairs-9",
-    src: "/images/Below-stairs/stair9.jpg",
-    name: "LED Showcase Stair Storage",
-    category: "Below-stairs",
-    alt: "LED showcase under stairs unit",
-    price: "₹50,000 onwards",
-    desc: "Stylish below-stairs storage cabinet with LED lighting and open showcase display sections.",
-  },
+
 
   // accent chairs
   {
     id: "accent-chair-1",
-    src: "/images/Accent-chairs/chair.jpg",
-    name: "Modern Grey Accent Chair",
+    src: "/images/Accent-chairs/chair6.jpg",
+    name: "Modern  Accent Chair",
     category: "Accent-chairs",
     alt: "Modern grey fabric accent chair",
     price: "₹18,000 onwards",
@@ -3011,7 +3013,7 @@ export const items = [
   },
   {
     id: "accent-chair-7",
-    src: "/images/Accent-chairs/chair6.jpg",
+    src: "/images/Accent-chairs/chair.jpg",
     name: "Neutral Fabric Lounge Chair",
     category: "Accent-chairs",
     alt: "Neutral fabric lounge chair with soft backrest",
@@ -3048,7 +3050,7 @@ export const items = [
   // Tall unit
    {
     id: "tall-unit-1",
-    src: "/images/Tall-unit/unit1.jpg",
+    src: "/images/Tall-unit/unit5.jpg",
     name: "Classic Wooden Tall Unit",
     category: "Tall-unit",
     alt: "Classic wooden tall unit with white base cabinets",
@@ -3084,7 +3086,7 @@ export const items = [
   },
   {
     id: "tall-unit-5",
-    src: "/images/Tall-unit/unit5.jpg",
+    src: "/images/Tall-unit/unit1.jpg",
     name: "Matte Finish Tall Cabinet",
     category: "Tall-unit",
     alt: "Matte finish tall cabinet with desk integration",
@@ -3109,4 +3111,228 @@ export const items = [
     price: "₹52,000 onwards",
     desc: "Tall wooden wall-mounted unit with continuous LED strip lighting, ideal for living or lounge areas.",
   },
+
+  // TV unit
+
+ {
+  id: "tv-unit-2",
+  src: "/images/Tv-unit/unit2.jpg",
+  name: "Premium TV Unit",
+  category: "Tv-unit",
+  alt: "Premium wooden TV cabinet with storage and LED lighting",
+  price: "₹45,000 onwards",
+  desc: "Modern TV cabinet with floating shelves and warm LED highlights for contemporary living spaces.",
+},
+{
+  id: "tv-unit-3",
+  src: "/images/Tv-unit/unit3.jpg",
+  name: "Floating TV Console",
+  category: "Tv-unit",
+  alt: "Floating wall-mounted TV console with drawers and lighting",
+  price: "₹38,000 onwards",
+  desc: "Wall-mounted floating TV console with sleek drawers and soft ambient lighting for clutter-free interiors.",
+},
+
+  // Doors
+  {
+  id: "door-1",
+  src: "/images/Doors/door1.jpg",
+  name: "Solid Wooden Door",
+  category: "Doors",
+  alt: "Solid teakwood door with classic finish",
+  price: "₹22,000 onwards",
+  desc: "Elegant teakwood main door with smooth finish and long-lasting durability for home entrance.",
+},
+{
+  id: "door-2",
+  src: "/images/Doors/door2.jpg",
+  name: "Designer Panel Door",
+  category: "Doors",
+  alt: "Designer panel door with modern cuts and polish",
+  price: "₹26,000 onwards",
+  desc: "Designer door featuring minimal panel grooves and polished texture — suitable for bedrooms and living areas.",
+},
+
+  // Doors panelling
+ {
+  id: "door-panelling-1",
+  src: "/images/Door-panelling/panel1.jpg",
+  name: "Wooden Door Panelling",
+  category: "Door-panelling",
+  alt: "Wooden panel wall around the door with trims",
+  price: "₹18,000 onwards",
+  desc: "Stylish wall panelling around door frames with fluted and moulded trims for a premium aesthetic.",
+},
+{
+  id: "door-panelling-2",
+  src: "/images/Door-panelling/panel2.jpg",
+  name: "Fluted Door Panelling",
+  category: "Door-panelling",
+  alt: "Fluted wall panels with matte polish around door",
+  price: "₹21,500 onwards",
+  desc: "Matte-finished fluted panelling around doors for seamless interior integration and modern appeal.",
+},
+
+  // Partitions
+  {
+  id: "partition-1",
+  src: "/images/Partitions/partition1.jpg",
+  name: "Glass Room Partition",
+  category: "Partitions",
+  alt: "Framed glass room partition with modern look",
+  price: "₹35,000 onwards",
+  desc: "Framed transparent glass partition ideal for dividing living spaces without blocking visual openness.",
+},
+{
+  id: "partition-2",
+  src: "/images/Partitions/partition2.jpg",
+  name: "Wooden Panel Partition",
+  category: "Partitions",
+  alt: "Decorative wooden slat divider for living rooms",
+  price: "₹29,000 onwards",
+  desc: "Decorative wooden slat divider for elegant separation between dining and living spaces.",
+},
+
+  // Dining tables
+  {
+  id: "dining-1",
+  src: "/images/Dining/dining1.jpg",
+  name: "Marble Dining Table",
+  category: "Dining",
+  alt: "Luxury marble dining table with gold base",
+  price: "₹85,000 onwards",
+  desc: "Premium marble-top dining table with metal base, suitable for elegant dining room interiors.",
+},
+{
+  id: "dining-2",
+  src: "/images/Dining/dining2.jpg",
+  name: "Wooden Dining Table",
+  category: "Dining",
+  alt: "Classic solid wood dining table with chairs",
+  price: "₹60,000 onwards",
+  desc: "Solid wooden dining setup designed for durability, aesthetics, and everyday comfort.",
+},
+ 
+  // Breakfast Counter
+{
+  id: "breakfast-counter-1",
+  src: "/images/Breakfast/counter1.jpg",
+  name: "Kitchen Breakfast Counter",
+  category: "Breakfast-counter",
+  alt: "Compact breakfast counter with bar stools",
+  price: "₹32,000 onwards",
+  desc: "Compact breakfast island with stone countertop and smart storage — ideal for modern kitchens.",
+},
+{
+  id: "breakfast-counter-2",
+  src: "/images/Breakfast/counter2.jpg",
+  name: "Island Breakfast Bar",
+  category: "Breakfast-counter",
+  alt: "Island style bar counter for open kitchen",
+  price: "₹41,000 onwards",
+  desc: "Stylish island-style counter for open plan kitchens featuring stone top and subtle indirect lighting.",
+},
+
+  //wash unit
+  {
+  id: "wash-unit-1",
+  src: "/images/Wash-unit/unit1.jpg",
+  name: "Designer Wash Basin Unit",
+  category: "Wash-unit",
+  alt: "Wall-mounted wash basin counter with mirror and storage",
+  price: "₹25,000 onwards",
+  desc: "Wall-mounted wash basin counter with LED mirror and smart storage for modern bathrooms.",
+},
+{
+  id: "wash-unit-2",
+  src: "/images/Wash-unit/unit2.jpg",
+  name: "Floating Vanity Wash Unit",
+  category: "Wash-unit",
+  alt: "Luxury floating vanity with drawers and lighting",
+  price: "₹34,000 onwards",
+  desc: "Floating vanity with drawers and ambient lighting — perfect for elegant residential washrooms.",
+},
+
+  // Wall molding and trimmings
+  
+  {
+  id: "moulding-1",
+  src: "/images/Mouldings/mould1.jpg",
+  name: "Premium Wall Mouldings",
+  category: "Mouldings",
+  alt: "Decorative wall mouldings with matte finish",
+  price: "₹12,000 onwards",
+  desc: "Premium wall mouldings with textured finish enhancing corridor, bedroom, or living room aesthetics.",
+},
+{
+  id: "moulding-2",
+  src: "/images/Mouldings/mould2.jpg",
+  name: "Fluted Wall Trimmings",
+  category: "Mouldings",
+  alt: "Vertical fluted trims on accent wall",
+  price: "₹15,000 onwards",
+  desc: "Vertical fluted trims offering depth and elegance to interior accent walls.",
+},
+
+  // Center table
+ {
+  id: "center-table-1",
+  src: "/images/Center-table/table4.jpg",
+  name: "Marble Center Table",
+  category: "Center-table",
+  alt: "Round marble center table with metallic legs",
+  price: "₹20,000 onwards",
+  desc: "Round marble top center table with elegant metal base, suitable for premium living rooms.",
+},
+{
+  id: "center-table-2",
+  src: "/images/Center-table/table2.jpg",
+  name: "Wooden Coffee Table",
+  category: "Center-table",
+  alt: "Minimal wooden coffee table for living area",
+  price: "₹14,000 onwards",
+  desc: "Minimal wooden coffee table with lower shelf for décor and storage.",
+},
+
+  // sofa set
+  {
+  id: "sofa-1",
+  src: "/images/Sofa/sofa1.jpg",
+  name: "Premium Sofa Set",
+  category: "Sofa",
+  alt: "Luxury upholstered sofa set with cushions",
+  price: "₹65,000 onwards",
+  desc: "Elegant upholstered sofa set offering superior comfort and premium aesthetic appeal.",
+},
+{
+  id: "sofa-2",
+  src: "/images/Sofa/sofa2.jpg",
+  name: "Sectional L-Shaped Sofa",
+  category: "Sofa",
+  alt: "Modern L-shaped sectional sofa for living room",
+  price: "₹75,000 onwards",
+  desc: "Spacious L-shaped sectional sofa designed for modern homes with comfortable seating.",
+},
+
+  // Couches
+ {
+  id: "couch-1",
+  src: "/images/Couches/couch3.jpg",
+  name: "Designer Couch",
+  category: "Couch",
+  alt: "Designer accent couch for living room",
+  price: "₹48,000 onwards",
+  desc: "Designer upholstered couch suitable for lounges, living rooms, and studio spaces.",
+},
+{
+  id: "couch-2",
+  src: "/images/Couches/couch2.jpg",
+  name: "Minimal Lounge Couch",
+  category: "Couch",
+  alt: "Minimal lounge couch with soft fabric",
+  price: "₹39,000 onwards",
+  desc: "Soft fabric lounge couch with a minimal design offering comfort and modern interior styling.",
+},
+
+
 ];

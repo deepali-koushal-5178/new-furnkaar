@@ -2,8 +2,9 @@
 import { useEffect, useState } from "react";
 import styles from "../Styles/Hero.module.css";
 import { FaWhatsapp } from "react-icons/fa";
+import { useLang } from "./LangContext";
 
-export default function Hero() {
+export default function Hero({ heading, sub, ctaText }) {
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -11,23 +12,23 @@ export default function Hero() {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+    const { t } = useLang();
 
+console.log( heading, sub, ctaText , "value check")
   return (
     <section className={styles.hero}>
 
       <div className={styles.overlay}>
         <div className={styles.content}>
-          <h1>Custom Furniture. Factory Precision. Crafted in Indore.</h1>
-          <p>
-            We design and manufacture modular furniture for homes, offices, and commercial spaces — built with precision, durability, and elegant finish.
-          </p>
+          <h1>{t.heroHeading}</h1>
+          <p>{t.heroSub}</p>
           <a
             href="https://wa.me/918446004545?text=Hi%20Team%20Shilpkaar!%20I%20would%20like%20to%20discuss%20a%20custom%20furniture%20project."
             target="_blank"
             rel="noopener noreferrer"
             className={styles.button}
           >
-            <FaWhatsapp className={styles.whatsappIcon} /> Get a Free Design Consultation
+            <FaWhatsapp className={styles.whatsappIcon} /> {t.cta}
           </a>
         </div>
 

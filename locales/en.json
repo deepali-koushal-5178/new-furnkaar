@@ -1,0 +1,1673 @@
+{
+  "siteTitle": "Shilpkaar Furnitures",
+  "heroHeading": "Custom Furniture. Factory Precision. Crafted in Indore.",
+  "heroSub": "We design and manufacture modular furniture for homes, offices, and commercial spaces — built with precision, durability, and elegant finish.",
+  "cta": "Get a Free Design Consultation",
+  "whatWeMake": "What We Make",
+  "sub": "Explore our range of factory-finished modular furniture — from kitchens and wardrobes to office and commercial spaces.",
+  "view": "View",
+  "close": "✕",
+  "prev": "‹",
+  "next": "›",
+  "viewAll": "View All Designs →",
+  "interested": "Interested in something similar?",
+  "discuss": "Let’s discuss your project.",
+  "scrollHint": "↓ Scroll to Explore",
+  "categoryNames": {
+    "All": "All",
+    "Kitchens": "Kitchens",
+    "Sliding-Wardrobes": "Sliding Wardrobes",
+    "Single-Bed": "Single Bed",
+    "Double-Bed": "Double Bed",
+    "Dressing-units": "Dressing Units",
+    "Shoe-rack": "Shoe Rack",
+    "Working-tables": "Working Tables",
+    "Accent-chairs": "Accent Chairs",
+    "Tall-unit": "Tall Unit",
+    "Study-Unit": "Study Unit",
+    "Hinged-Wardrobe": "Hinged Wardrobe",
+    "Executive-Table": "Executive Table",
+    "Console": "Console",
+    "Crockery-unit": "Crockery Unit",
+    "Below-stairs": "Below Stairs",
+    "Tv-unit": "TV Unit",
+    "Doors": "Doors",
+    "Door-panelling": "Door Panelling",
+    "Partitions": "Partitions",
+    "Dining": "Dining",
+    "Breakfast-counter": "Breakfast Counter",
+    "Wash-unit": "Wash Unit",
+    "Mouldings": "Mouldings",
+    "Center-table": "Center Table",
+    "Sofa": "Sofa",
+    "Couch": "Couch"
+  },
+  "modalDescTemplate": "Explore all our {category} designs — each crafted with precision, style, and durability.",
+    "projectsHeading": "Our Latest Modular Furniture Projects",
+  "projectsSubtext": "Explore our recent factory-finished modular furniture installations across different cities in India.",
+  "viewProject": "View Project",
+  "modalClose": "Close Project",
+  "projectAltKitchen": "Modular Kitchen Project – Indore",
+  "projectAltWardrobe": "Sliding Wardrobe Installation – Bhopal",
+  "projectAltTVUnit": "Modern TV Unit Setup – Indore",
+  "projectAltBedroom": "Premium Bedroom Interior – Ujjain",
+    "featuresHeading": "Why Traditional Carpentry Costs You More Than You Think",
+  "featuresIntro": "On-site furniture work may seem affordable at first — but it often comes with hidden problems that waste your time, money, and peace of mind.",
+
+  "feature1": "Dust, noise, and constant disruption at home",
+  "feature2": "Uneven finishing and lack of machine precision",
+  "feature3": "Dependence on unskilled or inconsistent labor",
+  "feature4": "Delays, poor coordination, and budget overruns",
+  "feature5": "No warranty, no support after completion",
+  "feature6": "Limited design choices and poor material utilization",
+  "whyChooseHeading": "Why Homeowners & Professionals Trust Shilpkaar Furnitures",
+  "whyChooseIntro": "Combining the advantages of factory-finished modular furniture with the expertise of a trusted 10+ year manufacturing brand.",
+
+  "why1Title": "Time-Saving",
+  "why1Text": "No long weeks of on-site carpentry. Everything is precision-built in our factory.",
+
+  "why2Title": "Dust-Free Process",
+  "why2Text": "No cutting, dust or disturbance inside your home — 100% clean installation.",
+
+  "why3Title": "Fully Customizable",
+  "why3Text": "Designed to match your space, layout, colors and interior style.",
+
+  "why4Title": "Premium Finish",
+  "why4Text": "Perfect edges, smooth panels and factory-grade craftsmanship.",
+
+  "why5Title": "Durable Build Quality",
+  "why5Text": "Made from high-grade engineered boards and branded hardware.",
+
+  "why6Title": "10+ Years Experience",
+  "why6Text": "Trusted by homeowners, architects and commercial clients.",
+
+  "why7Title": "German–Italian Technology",
+  "why7Text": "Precision cutting, edge-banding and premium finishing machines.",
+
+  "why8Title": "In-House Manufacturing",
+  "why8Text": "Built completely in our Indore factory — no outsourcing.",
+
+  "why9Title": "End-to-End Service",
+  "why9Text": "Design, manufacturing, installation and after-sales support under one roof.",
+
+  "why10Title": "Quality-Assured Materials",
+  "why10Text": "High-grade boards, laminates and hardware for long-lasting performance.",
+  
+  "processHeading": "The Shilpkaar Way: Factory-Made Perfection",
+  "processIntro": "From concept to installation — every step is handled in-house to ensure precision, reliability, and a premium factory finish.",
+
+  "process1Title": "Design Consultation",
+  "process1Desc": "We begin by understanding your lifestyle, space, and design goals to create tailored modular solutions.",
+
+  "process2Title": "Material Selection",
+  "process2Desc": "Choose from premium laminates, veneers, acrylics, and hardware — sourced from trusted global brands.",
+
+  "process3Title": "Factory Manufacturing",
+  "process3Desc": "Our in-house facility uses precision German & Italian machinery for perfect cuts and seamless assembly.",
+
+  "process4Title": "Quality Check",
+  "process4Desc": "Each unit is inspected for alignment, durability, and finish to ensure factory-grade perfection.",
+
+  "process5Title": "Quick Installation",
+  "process5Desc": "Our trained professionals install everything cleanly and efficiently — no mess, no delays.",
+
+  "process6Title": "After-Sales Support",
+  "process6Desc": "We provide post-installation service, maintenance, and warranty for complete peace of mind.",
+    "testimonialsHeading": "What Our Customers Say",
+
+  "testimonial1Quote": "Amazing factory finish and very professional team!",
+  "testimonial1Location": "Indore",
+
+  "testimonial2Quote": "Loved the customization options. Installation was super clean!",
+  "testimonial2Location": "Bhopal",
+
+  "testimonial3Quote": "Worth every rupee. Quality is outstanding.",
+  "testimonial3Location": "Pune",
+  
+  "faqHeading": "Frequently Asked Questions",
+
+  "faq1Q": "What types of furniture do you offer?",
+  "faq1A": "We specialize in custom-finish modular furniture. Our range includes living room furniture, dining sets, bedroom furniture, office furniture, and storage solutions. All pieces are designed to fit your unique space and style preferences.",
+
+  "faq2Q": "Can I customize the furniture design?",
+  "faq2A": "Absolutely! We pride ourselves on offering fully customizable options. You can choose from a variety of finishes, materials, colors, and configurations to ensure your furniture matches your style and needs perfectly.",
+
+  "faq3Q": "How do I place an order?",
+  "faq3A": "You can place an order by contacting us directly through our website or by visiting our showroom. We’ll work with you to understand your requirements, help you select the right design, and provide a quote. Once you're happy with the details, we’ll proceed with manufacturing your custom piece.",
+
+  "faq4Q": "What materials do you use?",
+  "faq4A": "We offer a wide selection of high-quality materials, including solid wood, engineered wood, MDF, laminate, and metal accents. All materials are carefully sourced for durability and aesthetic appeal.",
+
+  "faq5Q": "How long will it take to receive my furniture?",
+  "faq5A": "Lead times for custom furniture can vary depending on the complexity of the design and order volume. Typically, delivery takes between 4-14 days after final approval of your design. We’ll keep you updated throughout the process.",
+
+  "faq6Q": "Do you offer delivery and installation services?",
+  "faq6A": "Yes, we offer delivery and professional installation services. Our team ensures that your furniture is carefully transported and properly set up in your home or office, so you can start enjoying it right away.",
+
+  "faq7Q": "What if I need to make changes to my order after it's placed?",
+  "faq7A": "Once we’ve finalized your design and production has started, changes may be limited. However, if you're in the early stages of the process, we’re happy to accommodate revisions. Please reach out to us as soon as possible to discuss any modifications.",
+
+  "faq8Q": "Can I see a sample of the materials and finishes?",
+  "faq8A": "Yes! We offer samples of our materials and finishes upon request. You can also visit our showroom to see and feel the materials in person before making your decision.",
+
+  "faq9Q": "Do you offer warranties on your furniture?",
+  "faq9A": "Yes, all of our furniture comes with a warranty. The exact duration of the warranty depends on the type of product and materials used. Please contact us for specific warranty details.",
+
+  "faq10Q": "How do I care for my furniture?",
+  "faq10A": "We provide detailed care instructions for each type of material used in our furniture. Regular dusting, cleaning with gentle products, and avoiding harsh chemicals will help maintain the beauty and durability of your pieces.",
+
+  "faq11Q": "Do you offer any discounts or promotions?",
+  "faq11A": "We occasionally offer special promotions or discounts on select items. Be sure to sign up for our newsletter or follow us on social media to stay informed about current offers.",
+
+  "faq12Q": "Can you help me with designing a layout for my space?",
+  "faq12A": "Yes, we offer design consultations to help you create the perfect furniture layout for your space.",
+
+  "faq13Q": "Do you have a showroom I can visit?",
+  "faq13A": "Yes, we have a showroom where you can explore our range of furniture designs and materials.",
+
+  "faq14Q": "How can I contact you for further questions or support?",
+  "faq14A": "For any additional questions, please contact us through the website’s contact form, phone, or email.",
+
+  "faq15Q": "Do you provide furniture for commercial spaces?",
+  "faq15A": "Yes, we provide custom modular furniture for commercial spaces including offices, retail stores, and restaurants.",
+
+  "faq16Q": "What if I’m not happy with my custom furniture once it arrives?",
+  "faq16A": "If there is any manufacturing defect or issue, we’ll resolve it immediately. Since custom pieces are made to order, returns can be limited.",
+
+  "faq17Q": "Do you offer financing or payment plans?",
+  "faq17A": "Yes, we offer flexible financing options. Please contact us for details.",
+
+  "faq18Q": "What makes your furniture different from other manufacturers?",
+  "faq18A": "Our custom modular furniture stands out due to premium materials, personalization, and long-lasting durability.",
+
+  "faq19Q": "Can I visit your factory or see how the furniture is made?",
+  "faq19A": "Yes! We can arrange a factory tour. Contact us to schedule a visit.",
+
+  "faq20Q": "What if I have a specific design idea that’s not on your website?",
+  "faq20A": "You can share your custom design idea with us, and we will help turn it into reality.",
+
+  "faq21Q": "Do you offer furniture for small or unique spaces?",
+  "faq21A": "Yes, our modular designs are ideal for small or uniquely shaped spaces.",
+    "ctaHeading": "Transform Your Space with Precision-Built Modular Furniture",
+  "ctaText": "Book your free design consultation today and discover how factory-made quality makes all the difference.",
+  "ctaPrimaryBtn": "Book a Consultation",
+  "ctaWhatsappBtn": "Chat on WhatsApp",
+  
+  "contactHeading": "Contact Us",
+  "contactAddressLabel": "Address:",
+  "contactPhoneLabel": "Phone:",
+  "contactEmailLabel": "Email:",
+  "contactFooterCopy": "© {year} Furnkaar – The Signature Collection by Shilpkaar Furnitures",
+  
+  "aboutTitle": "About Furnkaar",
+  "aboutP1": "Furnkaar is the Signature Collection by Shilpkaar Furnitures — a premium line that brings together artistic craftsmanship, advanced technology, and elegant design to create furniture that stands apart.",
+  "aboutP2": "At Shilpkaar Furnitures, we’ve built a legacy of precision engineering and fine detailing. Furnkaar carries this heritage forward — offering refined, factory-finished furniture that blends beauty, comfort, and durability. Each piece is thoughtfully designed to represent a perfect balance of art and functionality.",
+  "aboutP3": "Based in Indore, our in-house facility is powered by modern CNC and German edge-banding technology. From modular kitchens and wardrobes to statement pieces and luxury interiors, Furnkaar by Shilpkaar ensures every product is crafted with unmatched precision and timeless aesthetics.",
+
+  "coreValuesHeading": "Our Core Values",
+
+  "value1Title": "Crafted with Precision",
+  "value1Desc": "Every creation is built using CNC and edge-banding machines for millimeter-perfect accuracy and a flawless factory finish.",
+
+  "value2Title": "Design Personalization",
+  "value2Desc": "We believe every space has its own identity. Our designs are customized to match your style, needs, and vision.",
+
+  "value3Title": "Integrity & Trust",
+  "value3Desc": "Built on transparency, commitment, and excellence — ensuring a seamless and professional experience from design to delivery.",
+
+  "value4Title": "Sustainable Craftsmanship",
+  "value4Desc": "We follow eco-conscious practices using sustainable materials and optimized production to minimize waste and protect the planet.",
+
+  "calloutHeading": "Furnkaar – The Signature Collection by Shilpkaar Furnitures",
+  "calloutText": "Redefining Indian craftsmanship through design innovation and factory precision. From homes to offices, we deliver furniture that blends elegance, efficiency, and the artistry of true craftsmanship.",
+  "calloutCTA": "Book a Free Design Consultation",
+  
+  "machinesHeading": "Our Machines",
+  "machinesSubheading": "Explore the cutting-edge technology behind our precision-crafted modular furniture.",
+
+  "m1_name": "Panel Saw",
+  "m1_desc": "Experience flawless precision with our advanced Panel Saw, designed for clean, accurate cuts every time. It ensures smooth edges and perfect alignment, bringing consistency and craftsmanship to every piece of furniture. The result — beautiful finishes that speak of quality and attention to detail.",
+
+  "m2_name": "Beam Saw",
+  "m2_desc": "Our high-performance Beam Saw delivers speed and precision for large-scale panel cutting. Engineered for efficiency, it produces perfectly sized components with minimal waste. This ensures every furniture piece fits seamlessly together, maintaining the highest standards of finish and durability.",
+
+  "m3_name": "Automatic Edge Banding Machine",
+  "m3_desc": "For that perfect, seamless look — our Automatic Edge Banding Machine guarantees smooth, durable edges on every panel. It enhances both the strength and elegance of furniture, giving each piece a refined, professional appearance that stands the test of time.",
+
+  "m4_name": "Cold Press",
+  "m4_desc": "Our Cold Press ensures uniform bonding and flawless surface finishes, essential for premium furniture production. It delivers strength, stability, and a perfectly smooth feel. Each piece that passes through it gains a superior finish that reflects craftsmanship and quality.",
+
+  "m5_name": "Hinge Boring Machine",
+  "m5_desc": "Precision meets perfection with our Hinge Boring Machine. Every hinge hole is drilled with exact alignment for smooth fittings and flawless function. This ensures doors open effortlessly and remain durable — enhancing the overall beauty and reliability of the furniture.",
+
+  "m6_name": "CNC Router Machine",
+  "m6_desc": "Creativity and technology come together in our CNC Router Machine. From intricate patterns to precise cuts, it enables stunning designs with unmatched accuracy. The result — furniture that stands out for its detailed craftsmanship, smooth finish, and distinctive appeal.",
+
+  "m7_name": "Three Head Multi Boring Machine",
+  "m7_desc": "Our Three Head Multi Boring Machine boosts efficiency while maintaining absolute precision. It drills multiple holes in perfect alignment, ensuring strong joints and superior build quality. Every product made with it reflects precision engineering and premium finish.",
+  
+  "catalogHeadingAll": "Our Collections",
+  "catalogHeadingCategory": "{category} Designs",
+
+  "catalogSubAll": "Explore our complete furniture categories — from kitchens to wardrobes, beds, and more.",
+  "catalogSubCategory": "Explore our full range of {category} designs.",
+
+  "catalogViewBtn": "View {category}",
+  "catalogLoading": "Loading catalog...",
+  
+  "kitchen-1-name": "Modern Modular Kitchen",
+  "kitchen-1-alt": "Modern modular kitchen with glossy cabinets",
+  "kitchen-1-desc": "A sleek modular kitchen featuring high-gloss cabinets and efficient storage design.",
+
+  "kitchen-2-name": "L-Shaped Modular Kitchen",
+  "kitchen-2-alt": "L-shaped modular kitchen design",
+  "kitchen-2-desc": "Spacious L-shaped kitchen layout for enhanced workflow and corner optimization.",
+
+  "kitchen-3-name": "Contemporary Kitchen",
+  "kitchen-3-alt": "Contemporary modular kitchen setup",
+  "kitchen-3-desc": "Contemporary design with soft-close drawers and premium countertop finish.",
+
+  "kitchen-4-name": "Parallel Modular Kitchen",
+  "kitchen-4-alt": "Parallel kitchen with dual counters",
+  "kitchen-4-desc": "Parallel kitchen setup providing efficient cooking space and ample storage.",
+
+  "kitchen-5-name": "Minimalist Modular Kitchen",
+  "kitchen-5-alt": "Minimalist kitchen with clean lines",
+  "kitchen-5-desc": "Elegant minimalist kitchen with handleless cabinets and neutral tones.",
+
+  "kitchen-6-name": "High-Gloss Kitchen Design",
+  "kitchen-6-alt": "High-gloss kitchen cabinets and LED lighting",
+  "kitchen-6-desc": "Glossy finish kitchen with under-cabinet lighting and sleek storage solutions.",
+
+  "kitchen-7-name": "Wood & White Kitchen",
+  "kitchen-7-alt": "Wood and white modular kitchen",
+  "kitchen-7-desc": "Stylish blend of wooden textures and white cabinets for a cozy feel.",
+
+  "kitchen-8-name": "Corner Modular Kitchen",
+  "kitchen-8-alt": "Corner-shaped modular kitchen design",
+  "kitchen-8-desc": "Smart corner kitchen maximizing small space efficiency with modern finish.",
+
+  "kitchen-9-name": "Luxury Modular Kitchen",
+  "kitchen-9-alt": "Luxury kitchen setup with high-end fittings",
+  "kitchen-9-desc": "Luxury kitchen design with premium finishes and advanced functionality.",
+
+  "kitchen-10-name": "Glass Finish Kitchen",
+  "kitchen-10-alt": "Glass finish modular kitchen",
+  "kitchen-10-desc": "Elegant kitchen with glass shutters and ambient lighting for a modern look.",
+
+  "kitchen-11-name": "Grey Modular Kitchen",
+  "kitchen-11-alt": "Grey matte modular kitchen setup",
+  "kitchen-11-desc": "Subtle grey tones with matte finish create a calm and modern kitchen space.",
+
+  "kitchen-12-name": "Compact Modular Kitchen",
+  "kitchen-12-alt": "Compact kitchen for small apartments",
+  "kitchen-12-desc": "Compact and efficient kitchen layout suitable for small homes and apartments.",
+
+  "kitchen-13-name": "Two-Tone Modular Kitchen",
+  "kitchen-13-alt": "Dual color modular kitchen",
+  "kitchen-13-desc": "Two-tone color palette with functional drawers and glass wall units.",
+
+  "kitchen-14-name": "U-Shaped Modular Kitchen",
+  "kitchen-14-alt": "U-shaped kitchen with wide counter space",
+  "kitchen-14-desc": "Spacious U-shaped kitchen ideal for multitasking and family cooking.",
+
+  "kitchen-16-name": "Earthy Tone Kitchen",
+  "kitchen-16-alt": "Earthy tone modular kitchen design",
+  "kitchen-16-desc": "Warm earthy tones for a natural and welcoming kitchen vibe.",
+
+  "kitchen-17-name": "Industrial Style Kitchen",
+  "kitchen-17-alt": "Industrial look modular kitchen",
+  "kitchen-17-desc": "Industrial-inspired kitchen design with dark tones and metallic finishes.",
+
+  "kitchen-18-name": "Spacious Grey Kitchen",
+  "kitchen-18-alt": "Spacious modular kitchen with grey finish",
+  "kitchen-18-desc": "Open and bright grey modular kitchen ideal for large family spaces.",
+
+  "kitchen-19-name": "Marble Finish Kitchen",
+  "kitchen-19-alt": "Marble top modular kitchen",
+  "kitchen-19-desc": "Marble finish countertop and pastel tones for a premium aesthetic.",
+
+  "kitchen-20-name": "Matte Finish Modular Kitchen",
+  "kitchen-20-alt": "Matte finish kitchen cabinets",
+  "kitchen-20-desc": "Modern matte-finish kitchen that combines elegance with durability.",
+
+  "kitchen-21-name": "Wooden Texture Kitchen",
+  "kitchen-21-alt": "Wood-textured modular kitchen",
+  "kitchen-21-desc": "Natural wooden textures bring warmth to your modern modular kitchen.",
+
+  "kitchen-22-name": "Elegant White Kitchen",
+  "kitchen-22-alt": "White modular kitchen setup",
+  "kitchen-22-desc": "Bright white modular kitchen with clean lines and minimalistic cabinets.",
+
+  "kitchen-23-name": "Premium Modular Kitchen",
+  "kitchen-23-alt": "Premium modern modular kitchen",
+  "kitchen-23-desc": "Premium kitchen setup with luxurious finishes and modern aesthetics.",
+
+  "kitchen-25-name": "LED Light Modular Kitchen",
+  "kitchen-25-alt": "Kitchen with LED lighting and open shelves",
+  "kitchen-25-desc": "Stylish modular kitchen featuring ambient lighting and elegant glass cabinets.",
+
+  "kitchen-26-name": "Display Shelf Kitchen",
+  "kitchen-26-alt": "Kitchen with display shelves and warm lighting",
+  "kitchen-26-desc": "Warm modular kitchen design with open display shelves and accent lighting.",
+
+  "kitchen-27-name": "Compact Green Kitchen",
+  "kitchen-27-alt": "Green tone compact modular kitchen",
+  "kitchen-27-desc": "Compact kitchen design with refreshing green tones and space-efficient cabinets.",
+
+  "kitchen-28-name": "Glossy White Modular Kitchen",
+  "kitchen-28-alt": "Glossy white modular kitchen design",
+  "kitchen-28-desc": "Glossy white cabinets with smooth finish for a bright and airy kitchen feel.",
+
+  "kitchen-29-name": "Luxury White Modular Kitchen",
+  "kitchen-29-alt": "White luxury modular kitchen design",
+  "kitchen-29-desc": "Premium white modular kitchen with sleek design and handleless drawers.",
+
+  "kitchen-30-name": "Compact Grey Kitchen",
+  "kitchen-30-alt": "Compact grey modular kitchen setup",
+  "kitchen-30-desc": "Smart grey modular kitchen ideal for small spaces with efficient layout.",
+
+  "kitchen-31-name": "Elegant Beige Kitchen",
+  "kitchen-31-alt": "Elegant beige modular kitchen design",
+  "kitchen-31-desc": "Soft beige color palette for a calm, modern kitchen experience.",
+
+  "kitchen-32-name": "Matte Grey Kitchen",
+  "kitchen-32-alt": "Matte finish grey modular kitchen",
+  "kitchen-32-desc": "Matte grey modular kitchen design with dark countertop and minimal look.",
+
+  "kitchen-33-name": "Dual Tone Kitchen",
+  "kitchen-33-alt": "Dual tone modular kitchen with marble backsplash",
+  "kitchen-33-desc": "Stylish kitchen with dual color contrast and marble-finish backsplash.",
+
+  "kitchen-34-name": "Open Layout Kitchen",
+  "kitchen-34-alt": "Open layout modular kitchen",
+  "kitchen-34-desc": "Spacious open kitchen layout with bright lighting and modern fittings.",
+
+  "kitchen-35-name": "Modern Brown Kitchen",
+  "kitchen-35-alt": "Brown and beige modular kitchen",
+  "kitchen-35-desc": "Warm-toned brown kitchen with elegant wooden texture and simple design.",
+
+  "kitchen-36-name": "Two-Tone Kitchen Design",
+  "kitchen-36-alt": "Two-tone modular kitchen setup",
+  "kitchen-36-desc": "Dual color combination kitchen featuring contrasting lower and upper cabinets.",
+
+  "kitchen-37-name": "Corner White Kitchen",
+  "kitchen-37-alt": "White corner modular kitchen",
+  "kitchen-37-desc": "Bright corner modular kitchen with glossy white finish and glass cabinets.",
+
+  "kitchen-38-name": "Simple Modular Kitchen",
+  "kitchen-38-alt": "Simple modular kitchen design",
+  "kitchen-38-desc": "Functional simple kitchen with neutral tones and practical storage layout.",
+
+  "kitchen-39-name": "Luxury Matte Kitchen",
+  "kitchen-39-alt": "Luxury matte modular kitchen design",
+  "kitchen-39-desc": "Luxurious kitchen setup with high-end matte finishes and golden lighting.",
+
+  "kitchen-40-name": "Dark Tone Kitchen",
+  "kitchen-40-alt": "Dark tone modular kitchen design",
+  "kitchen-40-desc": "Contemporary dark color kitchen design with glossy finishes and LED lights.",
+
+  "kitchen-41-name": "Wood Finish Kitchen",
+  "kitchen-41-alt": "Wood finish modular kitchen",
+  "kitchen-41-desc": "Natural wood finish modular kitchen for a warm and classic home ambiance.",
+
+  "kitchen-42-name": "Grey Gloss Kitchen",
+  "kitchen-42-alt": "Glossy grey modular kitchen setup",
+  "kitchen-42-desc": "Glossy grey modular kitchen with modern fittings and premium countertop.",
+
+  "kitchen-43-name": "Luxury Linear Kitchen",
+  "kitchen-43-alt": "Linear layout modular kitchen",
+  "kitchen-43-desc": "Luxury linear kitchen design with high-end cabinets and ample counter space.",
+
+  "kitchen-44-name": "Compact Beige Kitchen",
+  "kitchen-44-alt": "Compact beige modular kitchen",
+  "kitchen-44-desc": "Simple and elegant beige modular kitchen ideal for compact homes.",
+
+  "kitchen-46-name": "Classic Green Kitchen",
+  "kitchen-46-alt": "Classic modular kitchen with green cabinets",
+  "kitchen-46-desc": "Soft pastel green modular kitchen with white countertop and open shelves.",
+  
+  "wardrobe-1-name": "Textured Grey Sliding Wardrobe",
+  "wardrobe-1-alt": "Textured grey sliding wardrobe design",
+  "wardrobe-1-desc": "Elegant grey sliding wardrobe with a matte texture finish and sleek panels.",
+
+  "wardrobe-2-name": "Classic Beige Wardrobe",
+  "wardrobe-2-alt": "Classic beige sliding wardrobe design",
+  "wardrobe-2-desc": "Modern beige sliding wardrobe with minimalist handle design and soft lighting.",
+
+  "wardrobe-3-name": "Dual Tone Sliding Wardrobe",
+  "wardrobe-3-alt": "Dual tone sliding wardrobe with white and blue panels",
+  "wardrobe-3-desc": "Contemporary dual-tone sliding wardrobe with elegant white and blue panels.",
+
+  "wardrobe-4-name": "Minimal White Wardrobe",
+  "wardrobe-4-alt": "Minimal white sliding wardrobe design",
+  "wardrobe-4-desc": "Simple and elegant white wardrobe with wooden highlights and sleek handles.",
+
+  "wardrobe-5-name": "Glossy Finish Sliding Wardrobe",
+  "wardrobe-5-alt": "Glossy finish wardrobe design",
+  "wardrobe-5-desc": "High-gloss finish wardrobe featuring premium reflective surfaces for a luxe feel.",
+
+  "wardrobe-6-name": "Matte Grey Sliding Wardrobe",
+  "wardrobe-6-alt": "Matte grey sliding wardrobe",
+  "wardrobe-6-desc": "Matte-finish grey wardrobe with hidden handles and smooth panel alignment.",
+
+  "wardrobe-7-name": "Designer Blue Sliding Wardrobe",
+  "wardrobe-7-alt": "Designer blue sliding wardrobe",
+  "wardrobe-7-desc": "Modern sliding wardrobe with geometric blue design and dual finish pattern.",
+
+  "wardrobe-8-name": "Two-Tone Sliding Wardrobe",
+  "wardrobe-8-alt": "Two-tone wardrobe with open shelf design",
+  "wardrobe-8-desc": "Stylish wardrobe with a two-tone color scheme and built-in open storage sections.",
+
+  "wardrobe-9-name": "Mint Green Wardrobe",
+  "wardrobe-9-alt": "Mint green modular sliding wardrobe",
+  "wardrobe-9-desc": "Fresh mint green wardrobe design with golden trims and soft pastel tones.",
+
+  "wardrobe-10-name": "Pink Accent Sliding Wardrobe",
+  "wardrobe-10-alt": "Pink accent sliding wardrobe for bedroom",
+  "wardrobe-10-desc": "Pastel pink wardrobe with white finish — perfect for modern bedroom spaces.",
+
+  "wardrobe-11-name": "Elegant White Wardrobe",
+  "wardrobe-11-alt": "Elegant white sliding wardrobe design",
+  "wardrobe-11-desc": "Elegant white wardrobe with subtle detailing and a smooth matte finish.",
+
+  "wardrobe-12-name": "Luxury Sliding Wardrobe",
+  "wardrobe-12-alt": "Luxury matte sliding wardrobe",
+  "wardrobe-12-desc": "Premium luxury wardrobe with golden trims and soft lighting accents.",
+
+  "wardrobe-13-name": "Geometric Pattern Wardrobe",
+  "wardrobe-13-alt": "Geometric patterned sliding wardrobe",
+  "wardrobe-13-desc": "Stylish geometric design wardrobe with grey matte panels and unique detailing.",
+
+  "wardrobe-14-name": "Gloss White Wardrobe",
+  "wardrobe-14-alt": "Gloss white modular wardrobe",
+  "wardrobe-14-desc": "Glossy white sliding wardrobe with mirror accents and wooden base contrast.",
+
+  "wardrobe-15-name": "Reflective Sliding Wardrobe",
+  "wardrobe-15-alt": "Reflective sliding wardrobe panels",
+  "wardrobe-15-desc": "Reflective glass finish sliding wardrobe with dark frames for a premium appeal.",
+
+  "wardrobe-16-name": "Beige & Grey Wardrobe",
+  "wardrobe-16-alt": "Beige and grey sliding wardrobe",
+  "wardrobe-16-desc": "Warm beige wardrobe with matte grey contrast for elegant bedroom interiors.",
+
+  "wardrobe-17-name": "Corner Sliding Wardrobe",
+  "wardrobe-17-alt": "Corner wardrobe with L-shaped panels",
+  "wardrobe-17-desc": "Corner fitted sliding wardrobe with decorative design and smooth shutters.",
+
+  "wardrobe-18-name": "Blue Striped Wardrobe",
+  "wardrobe-18-alt": "Blue stripe modular sliding wardrobe",
+  "wardrobe-18-desc": "Dual blue striped wardrobe with soft-close panels and modern style.",
+
+  "wardrobe-19-name": "Classic Grey Wardrobe",
+  "wardrobe-19-alt": "Classic grey sliding wardrobe",
+  "wardrobe-19-desc": "Classic wardrobe with grey tone finish and horizontal wood-textured stripes.",
+
+  "wardrobe-20-name": "Golden Accent Wardrobe",
+  "wardrobe-20-alt": "Golden accent sliding wardrobe design",
+  "wardrobe-20-desc": "Luxurious wardrobe with gold detailing and integrated ambient lighting.",
+
+  "wardrobe-21-name": "White Gloss Wardrobe",
+  "wardrobe-21-alt": "White gloss sliding wardrobe",
+  "wardrobe-21-desc": "White gloss sliding wardrobe with geometric accent lines and smooth texture.",
+
+  "wardrobe-22-name": "Dual Panel Wardrobe",
+  "wardrobe-22-alt": "Dual panel modular wardrobe",
+  "wardrobe-22-desc": "Dual panel sliding wardrobe with a subtle blend of white and light grey.",
+
+  "wardrobe-23-name": "Glass Front Sliding Wardrobe",
+  "wardrobe-23-alt": "Glass front sliding wardrobe",
+  "wardrobe-23-desc": "Glass front wardrobe with tinted finish and metallic edge detailing.",
+
+  "wardrobe-24-name": "Mirror Wardrobe Design",
+  "wardrobe-24-alt": "Mirror panel wardrobe design",
+  "wardrobe-24-desc": "Modern mirrored wardrobe panels offering both storage and reflective space.",
+
+  "wardrobe-25-name": "Wood & Glass Wardrobe",
+  "wardrobe-25-alt": "Wood and glass sliding wardrobe",
+  "wardrobe-25-desc": "Wood and glass panel wardrobe with intricate diagonal accent pattern.",
+
+  "wardrobe-26-name": "Matte Grey Sliding Wardrobe",
+  "wardrobe-26-alt": "Matte grey wardrobe design",
+  "wardrobe-26-desc": "Matte grey sliding wardrobe with smooth finish and metallic frame.",
+
+  "wardrobe-27-name": "Modern Blue Sliding Wardrobe",
+  "wardrobe-27-alt": "Modern blue wardrobe with white panel",
+  "wardrobe-27-desc": "Stylish modern blue wardrobe design with dual panel tones.",
+
+  "wardrobe-28-name": "Patterned Wardrobe Design",
+  "wardrobe-28-alt": "Patterned grey sliding wardrobe",
+  "wardrobe-28-desc": "Creative diagonal-pattern wardrobe offering a mix of style and utility.",
+
+  "wardrobe-29-name": "Dual Texture Sliding Wardrobe",
+  "wardrobe-29-alt": "Dual texture wardrobe with wooden tone",
+  "wardrobe-29-desc": "Elegant wardrobe combining wood and white tones in a zigzag design.",
+
+  "wardrobe-30-name": "Premium Modular Wardrobe",
+  "wardrobe-30-alt": "Premium modular sliding wardrobe",
+  "wardrobe-30-desc": "Premium modular wardrobe with built-in dressing mirror and lighting setup.",
+
+  "wardrobe-31-name": "Teal Blue Wardrobe",
+  "wardrobe-31-alt": "Teal blue sliding wardrobe design",
+  "wardrobe-31-desc": "Cool teal blue wardrobe that adds a modern touch to your bedroom interiors.",
+
+  "wardrobe-32-name": "Compact White Wardrobe",
+  "wardrobe-32-alt": "Compact white wardrobe design",
+  "wardrobe-32-desc": "Compact white wardrobe suitable for small rooms and modern minimal interiors.",
+
+  "wardrobe-33-name": "Dark Contrast Sliding Wardrobe",
+  "wardrobe-33-alt": "Dark contrast sliding wardrobe",
+  "wardrobe-33-desc": "Bold contrast wardrobe with matte black and light panels for a sleek look.",
+
+  "wardrobe-34-name": "Mirrored Grey Wardrobe",
+  "wardrobe-34-alt": "Mirrored grey sliding wardrobe",
+  "wardrobe-34-desc": "Mirrored grey sliding wardrobe with vertical lighting and plush detailing.",
+  
+  "bed-1-name": "Modern Twin Bed Set",
+  "bed-1-alt": "Modern twin bed design with minimal headboard",
+  "bed-1-desc": "Stylish twin bed design perfect for guest rooms or kids' bedrooms with a minimal modern look.",
+
+  "bed-2-name": "Upholstered Single Bed",
+  "bed-2-alt": "Upholstered single bed design",
+  "bed-2-desc": "Single bed with soft upholstered headboard and elegant wooden base structure.",
+
+  "bed-3-name": "Storage Lift-Up Bed",
+  "bed-3-alt": "Single bed with hydraulic storage lift-up system",
+  "bed-3-desc": "Hydraulic lift-up storage bed offering spacious under-bed compartments and sleek modern design.",
+
+  "bed-4-name": "Classic Wooden Single Bed",
+  "bed-4-alt": "Classic wooden single bed design",
+  "bed-4-desc": "Classic wooden single bed with headboard detailing and a warm wood finish for timeless appeal.",
+
+  "bed-5-name": "Contemporary Dual Bed",
+  "bed-5-alt": "Contemporary dual single bed setup",
+  "bed-5-desc": "Dual single bed setup with low-height headboards and modern aesthetic, ideal for shared rooms.",
+
+  "bed-6-name": "Compact Wooden Bed",
+  "bed-6-alt": "Compact wooden single bed design",
+  "bed-6-desc": "Compact and durable wooden single bed suitable for small rooms and minimalist interiors.",
+
+  "bed-7-name": "Hydraulic Storage Bed",
+  "bed-7-alt": "Single bed with storage and upholstered headboard",
+  "bed-7-desc": "Elegant upholstered single bed featuring hydraulic storage and a modern, space-saving design.",
+
+
+  "double-bed-1-name": "Contemporary Upholstered Double Bed",
+  "double-bed-1-alt": "Contemporary upholstered double bed design",
+  "double-bed-1-desc": "Modern double bed with padded headboard and elegant grey tones for luxurious comfort.",
+
+  "double-bed-2-name": "LED Headboard Double Bed",
+  "double-bed-2-alt": "LED light headboard double bed",
+  "double-bed-2-desc": "Stylish double bed featuring integrated LED headboard lighting and cushioned panels.",
+
+  "double-bed-3-name": "Royal Upholstered Double Bed",
+  "double-bed-3-alt": "Royal style double bed with fabric headboard",
+  "double-bed-3-desc": "Luxurious double bed with plush headboard and premium fabric upholstery.",
+
+  "double-bed-4-name": "Minimal Wooden Double Bed",
+  "double-bed-4-alt": "Minimal wooden double bed design",
+  "double-bed-4-desc": "Simple wooden double bed with sleek design and modern headboard detailing.",
+
+  "double-bed-5-name": "Classic Wood Finish Bed",
+  "double-bed-5-alt": "Classic wooden double bed",
+  "double-bed-5-desc": "Classic wooden bed with warm finish and durable structure for timeless interiors.",
+
+  "double-bed-6-name": "Hydraulic Storage Double Bed",
+  "double-bed-6-alt": "Hydraulic storage double bed",
+  "double-bed-6-desc": "Smart hydraulic storage double bed for maximum space utilization and functionality.",
+
+  "double-bed-7-name": "Low Platform Double Bed",
+  "double-bed-7-alt": "Low platform double bed design",
+  "double-bed-7-desc": "Minimal low-height platform bed with contemporary lines and rich brown finish.",
+
+  "double-bed-8-name": "Sleek Wooden Bed",
+  "double-bed-8-alt": "Sleek wooden double bed",
+  "double-bed-8-desc": "Elegant wooden bed featuring smooth edges and natural wood polish.",
+
+  "double-bed-9-name": "Modern Beige Double Bed",
+  "double-bed-9-alt": "Modern beige upholstered double bed",
+  "double-bed-9-desc": "Beige double bed design with fabric panel headboard and wooden frame contrast.",
+
+  "double-bed-10-name": "Velvet Finish Double Bed",
+  "double-bed-10-alt": "Velvet finish double bed with headboard",
+  "double-bed-10-desc": "Luxurious velvet headboard double bed offering comfort and sophistication.",
+
+  "double-bed-11-name": "Two-Tone Double Bed",
+  "double-bed-11-alt": "Two-tone double bed with contrast design",
+  "double-bed-11-desc": "Dual color wooden double bed with elegant pattern and premium finish.",
+
+  "double-bed-12-name": "Luxury Fabric Double Bed",
+  "double-bed-12-alt": "Luxury fabric upholstered double bed",
+  "double-bed-12-desc": "Soft fabric bed design with high padded headboard and cozy structure.",
+
+  "double-bed-13-name": "Hydraulic Lift Storage Bed",
+  "double-bed-13-alt": "Hydraulic lift storage double bed",
+  "double-bed-13-desc": "Smart bed with hidden hydraulic lift storage and smooth operation.",
+
+  "double-bed-14-name": "Extended Headboard Bed",
+  "double-bed-14-alt": "Extended headboard double bed",
+  "double-bed-14-desc": "Premium double bed featuring extended headboard panels and elegant vertical design.",
+
+  "double-bed-15-name": "Bedroom Set Double Bed",
+  "double-bed-15-alt": "Bedroom set with double bed and wardrobe",
+  "double-bed-15-desc": "Modern bedroom set including bed, side units, and matching wardrobe.",
+
+  "double-bed-16-name": "Floating Platform Double Bed",
+  "double-bed-16-alt": "Floating platform double bed design",
+  "double-bed-16-desc": "Minimal floating bed with sleek structure and hidden base design.",
+
+  "double-bed-17-name": "Fabric Texture Bed",
+  "double-bed-17-alt": "Fabric texture double bed",
+  "double-bed-17-desc": "Textured fabric design bed ideal for cozy and modern interiors.",
+
+  "double-bed-18-name": "Light Grey Upholstered Bed",
+  "double-bed-18-alt": "Light grey upholstered double bed",
+  "double-bed-18-desc": "Soft light grey upholstered double bed with plush headboard design.",
+
+  "double-bed-19-name": "Wall-Mounted Headboard Bed",
+  "double-bed-19-alt": "Wall-mounted headboard double bed",
+  "double-bed-19-desc": "Wall-mounted extended headboard double bed for a luxury contemporary look.",
+
+  "double-bed-20-name": "Neutral Modern Double Bed",
+  "double-bed-20-alt": "Neutral tone double bed design",
+  "double-bed-20-desc": "Modern neutral-colored double bed designed for simplicity and comfort.",
+
+  "double-bed-21-name": "Simple Wooden Bed",
+  "double-bed-21-alt": "Simple wooden double bed",
+  "double-bed-21-desc": "Straight-line double bed with traditional finish and clean geometry.",
+
+  "double-bed-22-name": "Diamond-Stitched Bed",
+  "double-bed-22-alt": "Diamond-stitched headboard double bed",
+  "double-bed-22-desc": "Diamond-stitched upholstered headboard double bed for elegant interiors.",
+
+  "double-bed-23-name": "Wooden Box Bed",
+  "double-bed-23-alt": "Wooden box double bed design",
+  "double-bed-23-desc": "Box-style wooden bed design ideal for compact rooms and modern spaces.",
+
+  "double-bed-24-name": "Headboard Storage Bed",
+  "double-bed-24-alt": "Double bed with headboard storage",
+  "double-bed-24-desc": "Double bed featuring headboard storage and compact modern finish.",
+
+  "double-bed-25-name": "Rustic Oak Double Bed",
+  "double-bed-25-alt": "Rustic oak wooden double bed",
+  "double-bed-25-desc": "Rustic oak wood finish bed offering charm and durability for modern homes.",
+
+  "double-bed-26-name": "LED Base Double Bed",
+  "double-bed-26-alt": "LED base double bed design",
+  "double-bed-26-desc": "Contemporary double bed featuring LED base lighting and side storage units.",
+
+  "double-bed-27-name": "Floating Wooden Double Bed",
+  "double-bed-27-alt": "Floating wooden double bed",
+  "double-bed-27-desc": "Floating wood design double bed for minimal and elegant bedrooms.",
+
+  "double-bed-28-name": "Hydraulic Blue Bed",
+  "double-bed-28-alt": "Hydraulic blue double bed",
+  "double-bed-28-desc": "Vibrant hydraulic lift storage double bed with blue finish and soft headboard.",
+
+  "double-bed-29-name": "Fabric Storage Double Bed",
+  "double-bed-29-alt": "Fabric storage double bed",
+  "double-bed-29-desc": "Fabric-covered bed frame with hydraulic storage and modern structure.",
+
+  "double-bed-30-name": "Compact Wooden Bed",
+  "double-bed-30-alt": "Compact wooden double bed",
+  "double-bed-30-desc": "Compact design double bed with minimal styling and box-type base.",
+
+  "double-bed-31-name": "Modern Grey Bed",
+  "double-bed-31-alt": "Modern grey double bed",
+  "double-bed-31-desc": "Modern grey tone double bed with sleek base and smooth headboard lines.",
+
+  "double-bed-32-name": "Fabric Panel Bed",
+  "double-bed-32-alt": "Fabric panel double bed",
+  "double-bed-32-desc": "Fabric panel double bed featuring simple form and comfort-oriented design.",
+
+  "double-bed-33-name": "Wide Headboard Bed",
+  "double-bed-33-alt": "Wide headboard double bed",
+  "double-bed-33-desc": "Wide headboard bed with built-in design symmetry and strong wooden structure.",
+
+  "double-bed-34-name": "Tufted Velvet Double Bed",
+  "double-bed-34-alt": "Tufted velvet double bed",
+  "double-bed-34-desc": "Velvet tufted headboard double bed exuding royalty and comfort.",
+
+  "double-bed-35-name": "Elegant Dual Bed",
+  "double-bed-35-alt": "Elegant dual tone double bed",
+  "double-bed-35-desc": "Dual tone elegant bed crafted with premium materials for a refined look.",
+
+  "double-bed-36-name": "Wooden Storage Bed",
+  "double-bed-36-alt": "Wooden double bed with storage",
+  "double-bed-36-desc": "Wooden storage double bed with drawers and headboard compartments.",
+
+  "double-bed-37-name": "Wardrobe Attached Bed",
+  "double-bed-37-alt": "Wardrobe attached double bed",
+  "double-bed-37-desc": "Integrated design combining double bed with wardrobe elements.",
+
+  "double-bed-38-name": "Classic Teak Bed",
+  "double-bed-38-alt": "Classic teak wooden double bed",
+  "double-bed-38-desc": "Classic teak finish double bed ideal for modern traditional bedrooms.",
+
+  "double-bed-39-name": "Designer Wooden Bed",
+  "double-bed-39-alt": "Designer wooden double bed",
+  "double-bed-39-desc": "Designer double bed crafted with high-quality wood and geometric form.",
+
+  "double-bed-40-name": "Premium Oak Double Bed",
+  "double-bed-40-alt": "Premium oak double bed design",
+  "double-bed-40-desc": "Premium oak finish bed offering natural elegance and superior comfort.",
+
+  "double-bed-41-name": "Sleek Panel Bed",
+  "double-bed-41-alt": "Sleek panel double bed",
+  "double-bed-41-desc": "Modern bed with clean headboard panels and compact styling.",
+
+  "double-bed-42-name": "Luxe Upholstered Bed",
+  "double-bed-42-alt": "Luxury upholstered double bed",
+  "double-bed-42-desc": "Soft padded headboard bed offering a plush and elegant bedroom appeal.",
+
+  "double-bed-43-name": "Extended Frame Bed",
+  "double-bed-43-alt": "Extended frame double bed",
+  "double-bed-43-desc": "Extended frame double bed featuring minimalist design and durable build.",
+
+  "double-bed-44-name": "LED Headrest Bed",
+  "double-bed-44-alt": "LED headrest double bed design",
+  "double-bed-44-desc": "Contemporary LED headrest double bed designed for luxury interiors.",
+
+  "double-bed-45-name": "Modern Storage Bed",
+  "double-bed-45-alt": "Modern storage double bed design",
+  "double-bed-45-desc": "Smart design double bed offering extra storage and stylish appearance.",
+
+  "double-bed-46-name": "Classic Brown Bed",
+  "double-bed-46-alt": "Classic brown wooden double bed",
+  "double-bed-46-desc": "Classic brown bed with simple lines and elegant modern vibe.",
+
+  "double-bed-47-name": "Luxury Bedroom Bed",
+  "double-bed-47-alt": "Luxury bedroom double bed design",
+  "double-bed-47-desc": "Luxury double bed designed with premium materials for sophisticated interiors.",
+  
+  "dressing-1-name": "Modern Dressing Table",
+  "dressing-1-alt": "Modern dressing table with mirror and storage",
+  "dressing-1-desc": "Stylish dressing table with sleek mirror and bottom drawers ideal for compact bedrooms.",
+
+  "dressing-2-name": "Classic Wooden Dressing Unit",
+  "dressing-2-alt": "Classic wooden dressing table with shelves",
+  "dressing-2-desc": "Traditional wooden dressing unit with mirror, open shelves, and smooth finish.",
+
+  "dressing-3-name": "Compact Mirror Table",
+  "dressing-3-alt": "Compact mirror dressing table",
+  "dressing-3-desc": "Compact dressing unit with mirror and single drawer for minimal bedroom spaces.",
+
+  "dressing-4-name": "Luxury Walnut Dressing Table",
+  "dressing-4-alt": "Luxury walnut finish dressing unit",
+  "dressing-4-desc": "Premium walnut-finish dressing table featuring elegant drawers and full-size mirror.",
+
+  "dressing-5-name": "Wall-Mounted Dressing Mirror",
+  "dressing-5-alt": "Wall-mounted dressing mirror with shelves",
+  "dressing-5-desc": "Space-saving wall-mounted mirror with storage ledge, ideal for modern apartments.",
+
+  "dressing-6-name": "Compact Black Dressing Unit",
+  "dressing-6-alt": "Compact black dressing unit",
+  "dressing-6-desc": "Compact black dressing table design with two drawers and minimalist mirror setup.",
+
+  "dressing-7-name": "Modern Corner Dressing Unit",
+  "dressing-7-alt": "Modern corner dressing unit with lighting",
+  "dressing-7-desc": "Sleek dressing table designed for corners with built-in LED lighting and storage shelves.",
+
+  "dressing-8-name": "Dual Tone Dressing Table",
+  "dressing-8-alt": "Dual tone dressing table design",
+  "dressing-8-desc": "Contemporary two-tone dressing table combining light wood and dark accents.",
+
+  "dressing-9-name": "Classic Mirror Dressing Unit",
+  "dressing-9-alt": "Classic dressing unit with full mirror",
+  "dressing-9-desc": "Classic dressing unit with tall mirror and compact storage for daily essentials.",
+
+  "dressing-10-name": "Elegant Vanity Mirror Setup",
+  "dressing-10-alt": "Elegant vanity dressing setup",
+  "dressing-10-desc": "Vanity-style dressing unit with mirror and concealed lighting for luxurious interiors.",
+
+  "dressing-11-name": "Rotating Mirror Dressing Table",
+  "dressing-11-alt": "Rotating mirror dressing table",
+  "dressing-11-desc": "Innovative rotating mirror dressing unit with multiple open and closed storage sections.",
+
+  "dressing-12-name": "High Gloss Dressing Table",
+  "dressing-12-alt": "High gloss white dressing unit",
+  "dressing-12-desc": "High gloss finish dressing table with elegant mirror and two drawers.",
+
+  "dressing-13-name": "LED Mirror Dressing Unit",
+  "dressing-13-alt": "LED mirror dressing unit",
+  "dressing-13-desc": "Dressing table with curved LED mirror design for modern and elegant look.",
+
+  "dressing-14-name": "Designer Vanity Dressing Table",
+  "dressing-14-alt": "Designer vanity dressing table with lighting",
+  "dressing-14-desc": "Luxurious vanity-style dressing table featuring decorative lighting and mirror frame.",
+
+  "dressing-15-name": "Compact Storage Dressing Unit",
+  "dressing-15-alt": "Compact storage dressing table",
+  "dressing-15-desc": "Space-saving dressing unit with mirror and smart drawer-shelf combination.",
+
+  "dressing-16-name": "Premium Round Mirror Dressing Table",
+  "dressing-16-alt": "Round mirror dressing table with lighting",
+  "dressing-16-desc": "Premium vanity setup featuring round mirror, LED rim, and golden accent lighting.",
+
+  "dressing-17-name": "Simple Wooden Dressing Table",
+  "dressing-17-alt": "Simple wooden dressing table design",
+  "dressing-17-desc": "Minimal wooden dressing table with a small mirror and single storage drawer.",
+
+  "dressing-18-name": "Classic Makeup Unit",
+  "dressing-18-alt": "Classic makeup unit with mirror and drawers",
+  "dressing-18-desc": "Classic makeup unit with a wide mirror, open rack, and side cabinet storage.",
+
+  "dressing-19-name": "Compact Mirror Stand",
+  "dressing-19-alt": "Compact mirror stand dressing table",
+  "dressing-19-desc": "Compact mirror dressing stand with wooden base and drawer for small bedrooms.",
+  
+  "shoe-rack-1-name": "Modern Wooden Shoe Rack with Seating",
+  "shoe-rack-1-alt": "Modern wooden shoe rack with cushioned seat and storage",
+  "shoe-rack-1-desc": "Elegant wooden shoe rack featuring a cushioned seat and multiple closed storage sections for footwear.",
+
+  "shoe-rack-2-name": "Wall-Mounted Shoe Storage Rack",
+  "shoe-rack-2-alt": "Wall-mounted shoe storage rack with lighting",
+  "shoe-rack-2-desc": "Compact wall-mounted shoe rack design with stylish lighting and a top display area for décor items.",
+
+  "shoe-rack-3-name": "Luxury Entryway Shoe Cabinet",
+  "shoe-rack-3-alt": "Luxury entryway shoe cabinet with mirror frame",
+  "shoe-rack-3-desc": "Premium shoe cabinet featuring an elegant wood finish and decorative mirror design for luxury entryways.",
+
+  "shoe-rack-4-name": "White Compact Shoe Rack",
+  "shoe-rack-4-alt": "White compact shoe rack with seating",
+  "shoe-rack-4-desc": "Compact white shoe rack with built-in cushioned seating—ideal for modern minimalist interiors.",
+
+  "shoe-rack-5-name": "Classic Wooden Shoe Rack",
+  "shoe-rack-5-alt": "Classic wooden shoe rack with drawers",
+  "shoe-rack-5-desc": "Traditional wooden shoe rack featuring closed compartments and drawers for neat shoe organization.",
+  
+  "working-table-1-name": "Compact Study Table",
+  "working-table-1-alt": "Compact study table with shelves and drawers",
+  "working-table-1-desc": "Compact multi-shelf study table designed for efficient workspace organization.",
+
+  "working-table-2-name": "Classic Wooden Work Table",
+  "working-table-2-alt": "Classic wooden office work table",
+  "working-table-2-desc": "Elegant wooden office table with side drawers and a spacious top for work essentials.",
+
+  "working-table-3-name": "Minimal Wooden Study Desk",
+  "working-table-3-alt": "Minimal wooden study desk design",
+  "working-table-3-desc": "Minimalist wooden study desk ideal for home offices and modern interiors.",
+
+  "working-table-4-name": "Functional Computer Table",
+  "working-table-4-alt": "Functional computer table with keyboard tray",
+  "working-table-4-desc": "Functional computer desk with a sliding keyboard tray and side storage cabinet.",
+
+  "working-table-5-name": "Compact Laptop Table",
+  "working-table-5-alt": "Compact laptop table with drawer",
+  "working-table-5-desc": "Compact laptop table featuring a side drawer and smooth laminate finish.",
+
+  "working-table-6-name": "Executive Office Desk",
+  "working-table-6-alt": "Executive office desk with drawers",
+  "working-table-6-desc": "Professional executive desk with a large workspace and organized drawer system.",
+
+  "working-table-7-name": "L-Shaped Workstation",
+  "working-table-7-alt": "L-shaped workstation with computer setup",
+  "working-table-7-desc": "Spacious L-shaped workstation ideal for multitasking and office setups.",
+
+  "working-table-8-name": "Plywood Study Desk",
+  "working-table-8-alt": "Plywood study desk with open leg space",
+  "working-table-8-desc": "Simple plywood study desk with ample legroom and a smooth finish design.",
+
+  "working-table-9-name": "Matte Black Office Table",
+  "working-table-9-alt": "Matte black office table with storage",
+  "working-table-9-desc": "Stylish matte black office table that brings modern elegance to your workspace.",
+
+  "working-table-10-name": "Compact Computer Table",
+  "working-table-10-alt": "Compact computer table with CPU space",
+  "working-table-10-desc": "Compact design computer table with dedicated CPU space and side drawers.",
+
+  "working-table-11-name": "Simple Wooden Study Table",
+  "working-table-11-alt": "Simple wooden study table design",
+  "working-table-11-desc": "Minimal wooden study table crafted for simplicity and everyday use.",
+
+  "working-table-12-name": "Dual Drawer Work Table",
+  "working-table-12-alt": "Dual drawer work table design",
+  "working-table-12-desc": "White dual drawer study table offering a balance between function and style.",
+
+  "working-table-13-name": "Modern Study Desk",
+  "working-table-13-alt": "Modern study desk with storage",
+  "working-table-13-desc": "Modern study desk with a side drawer unit and an elegant finish for home workspace.",
+
+  "working-table-14-name": "Corner Workstation Table",
+  "working-table-14-alt": "Corner workstation table with shelves",
+  "working-table-14-desc": "Corner workstation designed with open shelves for a productive and spacious work setup.",
+
+  "working-table-15-name": "Office Drawer Table",
+  "working-table-15-alt": "Office drawer table design",
+  "working-table-15-desc": "Compact office drawer table with a sturdy structure and multiple storage options.",
+
+  "working-table-16-name": "Laminate Work Table",
+  "working-table-16-alt": "Laminate finish work table",
+  "working-table-16-desc": "Durable laminate-finish work table ideal for study or remote work use.",
+
+  "working-table-17-name": "Dual Workstation Desk",
+  "working-table-17-alt": "Dual workstation desk for office use",
+  "working-table-17-desc": "Large dual workstation table suitable for two-person setups with plenty of storage.",
+
+  "working-table-18-name": "Classic Work Desk",
+  "working-table-18-alt": "Classic work desk with drawers",
+  "working-table-18-desc": "Classic wooden work desk with a smooth surface and three-drawer storage design.",
+  
+  "study-unit-1-name": "L-Shaped Study Unit",
+  "study-unit-1-alt": "L-shaped study unit with shelves",
+  "study-unit-1-desc": "Spacious L-shaped study unit with wall-mounted storage and an elegant wood finish.",
+
+  "study-unit-2-name": "LED Backlit Study Desk",
+  "study-unit-2-alt": "Study desk with LED backlight and drawers",
+  "study-unit-2-desc": "Modern study desk featuring LED back panel lighting and side drawers for extra storage.",
+
+  "study-unit-3-name": "Compact Corner Study Table",
+  "study-unit-3-alt": "Compact corner study table with shelves",
+  "study-unit-3-desc": "Compact corner-friendly study table equipped with open shelves for books and décor items.",
+
+  "study-unit-4-name": "White Modular Study Unit",
+  "study-unit-4-alt": "White modular study unit with cabinets",
+  "study-unit-4-desc": "Clean and minimal modular study setup featuring upper cabinets with a matte white finish.",
+
+  "study-unit-5-name": "Floating Wall Study Unit",
+  "study-unit-5-alt": "Floating wall-mounted study unit design",
+  "study-unit-5-desc": "Modern floating wall-mounted study setup featuring stylish shelves and wood accents.",
+
+  "study-unit-6-name": "Dual Tone Study Table",
+  "study-unit-6-alt": "Dual tone wooden study desk with shelves",
+  "study-unit-6-desc": "Dual-tone study desk with contrasting finishes and open top shelving.",
+
+  "study-unit-7-name": "Wall-Mounted Study Unit",
+  "study-unit-7-alt": "Wall-mounted study table with drawers",
+  "study-unit-7-desc": "Compact wall-mounted desk design ideal for minimal and space-saving work setups.",
+
+  "study-unit-8-name": "Compact Storage Study Unit",
+  "study-unit-8-alt": "Compact study unit with storage and cabinets",
+  "study-unit-8-desc": "Smart compact study setup featuring drawers and cabinets in a dual-finish design.",
+
+  "study-unit-9-name": "Elegant Modern Study Unit",
+  "study-unit-9-alt": "Elegant modern study table with blue accents",
+  "study-unit-9-desc": "Elegant modular study unit featuring blue accent cabinets and a comfortable workspace.",
+
+  "study-unit-10-name": "Luxury Wall Study Setup",
+  "study-unit-10-alt": "Luxury wall-mounted study unit design",
+  "study-unit-10-desc": "Luxury wall-mounted study design with warm wood tones and under-shelf lighting.",
+
+  "study-unit-11-name": "Work-From-Home Desk Unit",
+  "study-unit-11-alt": "Work-from-home desk with shelves",
+  "study-unit-11-desc": "Functional desk setup optimized for remote work with ample shelves and useful storage.",
+
+  "study-unit-12-name": "Open Shelf Study Desk",
+  "study-unit-12-alt": "Study desk with open shelves",
+  "study-unit-12-desc": "Minimal open-shelf study table designed for clean and organized workspaces.",
+
+  "study-unit-13-name": "Compact Dual Color Study Unit",
+  "study-unit-13-alt": "Dual color modular study unit",
+  "study-unit-13-desc": "Compact dual-color modular study unit featuring a blend of white and walnut tones.",
+
+  "study-unit-14-name": "Wall Study Table with Storage",
+  "study-unit-14-alt": "Wall study table with upper storage cabinets",
+  "study-unit-14-desc": "Functional wall study setup with integrated desk and modern upper storage cabinets.",
+
+  "study-unit-15-name": "Floating Desk Study Unit",
+  "study-unit-15-alt": "Floating desk study unit with shelves",
+  "study-unit-15-desc": "Minimal floating study unit featuring sleek lines and open upper shelves.",
+
+  "study-unit-16-name": "Compact Student Study Setup",
+  "study-unit-16-alt": "Student study setup with chair and light",
+  "study-unit-16-desc": "Compact student study setup featuring built-in lighting and overhead storage.",
+
+  "study-unit-17-name": "L-Shaped Office Study Unit",
+  "study-unit-17-alt": "L-shaped office study setup with drawers",
+  "study-unit-17-desc": "Spacious L-shaped office study setup with drawers and ergonomic design.",
+
+  "study-unit-18-name": "Wall-Mounted Desk Unit",
+  "study-unit-18-alt": "Wall-mounted desk unit with storage shelf",
+  "study-unit-18-desc": "Simple wall-mounted desk unit with an elegant wooden finish and compact structure.",
+
+  "study-unit-19-name": "Corner Study Workstation",
+  "study-unit-19-alt": "Corner study workstation with shelves",
+  "study-unit-19-desc": "Corner workstation setup ideal for small rooms, featuring built-in shelving.",
+
+  "study-unit-20-name": "Dual Finish Modular Study Table",
+  "study-unit-20-alt": "Dual finish modular study table",
+  "study-unit-20-desc": "Dual-finish modular study setup designed with smart layout and ample storage.",
+
+  "study-unit-21-name": "Standing Study Unit",
+  "study-unit-21-alt": "Standing study unit with shelves",
+  "study-unit-21-desc": "Modern standing study desk offering functionality and space efficiency.",
+
+  "study-unit-22-name": "Compact Office Desk Unit",
+  "study-unit-22-alt": "Compact office desk unit design",
+  "study-unit-22-desc": "Compact office study unit crafted for small rooms and home office spaces.",
+
+  "study-unit-23-name": "Dual Shelf Study Desk",
+  "study-unit-23-alt": "Study desk with upper and lower shelves",
+  "study-unit-23-desc": "Study desk featuring dual open shelves and a smooth surface finish for home workspace.",
+
+  "study-unit-24-name": "Minimal Yellow Accent Study Unit",
+  "study-unit-24-alt": "Minimal study unit with yellow accents",
+  "study-unit-24-desc": "Minimal modern study unit featuring subtle yellow cabinet accents.",
+  
+  "hinged-wardrobe-1-name": "Classic White Hinged Wardrobe",
+  "hinged-wardrobe-1-alt": "Classic white hinged wardrobe design",
+  "hinged-wardrobe-1-desc": "Elegant white hinged wardrobe with a full-length mirror and ample storage for modern bedrooms.",
+
+  "hinged-wardrobe-2-name": "Mirror Finish Hinged Wardrobe",
+  "hinged-wardrobe-2-alt": "Mirror finish hinged wardrobe with dressing setup",
+  "hinged-wardrobe-2-desc": "Luxurious hinged wardrobe featuring a built-in dressing mirror and LED lighting for a premium look.",
+
+  "hinged-wardrobe-3-name": "Wooden Glossy Wardrobe",
+  "hinged-wardrobe-3-alt": "Glossy wooden hinged wardrobe design",
+  "hinged-wardrobe-3-desc": "Premium glossy finish wardrobe with long handles and a dual-tone wooden design.",
+
+  "hinged-wardrobe-4-name": "Two Door Wooden Wardrobe",
+  "hinged-wardrobe-4-alt": "Two door wooden hinged wardrobe",
+  "hinged-wardrobe-4-desc": "Compact two-door wooden wardrobe with clean lines and a classic look for small bedrooms.",
+
+  "hinged-wardrobe-5-name": "Grey Matte Hinged Wardrobe",
+  "hinged-wardrobe-5-alt": "Matte grey hinged wardrobe",
+  "hinged-wardrobe-5-desc": "Modern matte grey hinged wardrobe offering soft-close doors and a minimal handle-free design.",
+
+  "hinged-wardrobe-6-name": "Modular Wardrobe with Side Storage",
+  "hinged-wardrobe-6-alt": "Modular wardrobe with open side storage",
+  "hinged-wardrobe-6-desc": "Functional modular wardrobe featuring a combination of open and closed storage spaces.",
+
+  "hinged-wardrobe-7-name": "Premium Bedroom Wardrobe",
+  "hinged-wardrobe-7-alt": "Premium bedroom wardrobe with dresser",
+  "hinged-wardrobe-7-desc": "Full-height wardrobe with an inbuilt dresser and an elegant wooden laminate finish.",
+
+  "hinged-wardrobe-8-name": "Compact Dual-Tone Wardrobe",
+  "hinged-wardrobe-8-alt": "Compact dual-tone wooden wardrobe",
+  "hinged-wardrobe-8-desc": "Compact dual-tone wardrobe perfect for apartments with limited space and modern decor.",
+
+  "hinged-wardrobe-9-name": "Full Wall Hinged Wardrobe",
+  "hinged-wardrobe-9-alt": "Full wall hinged wardrobe with drawers",
+  "hinged-wardrobe-9-desc": "Floor-to-ceiling hinged wardrobe offering maximum storage capacity and a stylish matte finish.",
+
+  "hinged-wardrobe-10-name": "Corner Hinged Wardrobe",
+  "hinged-wardrobe-10-alt": "Corner hinged wardrobe with open shelves",
+  "hinged-wardrobe-10-desc": "Corner wardrobe designed with open shelving and dual-access storage functionality.",
+
+  "hinged-wardrobe-11-name": "Olive Green Wardrobe",
+  "hinged-wardrobe-11-alt": "Olive green hinged wardrobe",
+  "hinged-wardrobe-11-desc": "Elegant olive green wardrobe with gold handles — perfect for stylish modern bedrooms.",
+
+  "hinged-wardrobe-12-name": "Minimal Matte Wardrobe",
+  "hinged-wardrobe-12-alt": "Minimal matte wardrobe with drawers",
+  "hinged-wardrobe-12-desc": "Minimal hinged wardrobe featuring a soft matte finish and convenient side drawer space.",
+
+  "hinged-wardrobe-13-name": "Elegant Grey Modular Wardrobe",
+  "hinged-wardrobe-13-alt": "Elegant grey modular hinged wardrobe",
+  "hinged-wardrobe-13-desc": "Elegant full-wall wardrobe in grey tone with mirror-finish handles and soft-close doors.",
+
+  "hinged-wardrobe-14-name": "Compact Dual Finish Wardrobe",
+  "hinged-wardrobe-14-alt": "Dual finish wardrobe with drawers",
+  "hinged-wardrobe-14-desc": "Compact white and wood dual-finish hinged wardrobe featuring functional side drawers.",
+
+  "hinged-wardrobe-15-name": "Rustic Wooden Wardrobe",
+  "hinged-wardrobe-15-alt": "Rustic wooden hinged wardrobe",
+  "hinged-wardrobe-15-desc": "Classic rustic wood finish wardrobe ideal for vintage-inspired and cozy interiors.",
+
+  "hinged-wardrobe-16-name": "Full White Glossy Wardrobe",
+  "hinged-wardrobe-16-alt": "White glossy hinged wardrobe",
+  "hinged-wardrobe-16-desc": "Bright white glossy wardrobe that enhances room brightness and offers organised storage.",
+
+  "hinged-wardrobe-17-name": "Textured Grey Hinged Wardrobe",
+  "hinged-wardrobe-17-alt": "Textured grey hinged wardrobe",
+  "hinged-wardrobe-17-desc": "Textured grey wardrobe with smooth handle design and a modern subtle look.",
+
+  "hinged-wardrobe-18-name": "Matte Grey Modern Wardrobe",
+  "hinged-wardrobe-18-alt": "Matte grey modern wardrobe",
+  "hinged-wardrobe-18-desc": "Modern matte grey wardrobe with clean symmetrical handles and neutral tones.",
+
+  "hinged-wardrobe-19-name": "Side Shelf Wardrobe Unit",
+  "hinged-wardrobe-19-alt": "Wardrobe unit with open side shelves",
+  "hinged-wardrobe-19-desc": "Elegant hinged wardrobe with integrated open shelving and a soft laminate finish.",
+
+  "hinged-wardrobe-20-name": "Dark Grey Wardrobe with Drawers",
+  "hinged-wardrobe-20-alt": "Dark grey hinged wardrobe with drawers",
+  "hinged-wardrobe-20-desc": "Dark grey wardrobe with a sleek modern design and bottom drawers for added usability.",
+
+  "hinged-wardrobe-21-name": "Compact Grey-White Wardrobe",
+  "hinged-wardrobe-21-alt": "Compact grey and white wardrobe design",
+  "hinged-wardrobe-21-desc": "Compact hinged wardrobe in a grey-white combination ideal for modern interior styles.",
+
+  "hinged-wardrobe-22-name": "Minimal Wood Frame Wardrobe",
+  "hinged-wardrobe-22-alt": "Minimal wood frame wardrobe",
+  "hinged-wardrobe-22-desc": "Two-door wardrobe with a simple wooden frame and matte panel design.",
+  
+  "hinged-wardrobe-23-name": "Dual Tone Compact Wardrobe",
+  "hinged-wardrobe-23-alt": "Dual tone compact wardrobe",
+  "hinged-wardrobe-23-desc": "Compact wardrobe design featuring two-tone contrast and clean vertical lines.",
+
+  "hinged-wardrobe-24-name": "Matte Grey & Wood Wardrobe",
+  "hinged-wardrobe-24-alt": "Matte grey and wood finish wardrobe",
+  "hinged-wardrobe-24-desc": "Hinged wardrobe with soft matte doors and wooden accents for a balanced modern look.",
+
+  "hinged-wardrobe-25-name": "Full-Height Modern Wardrobe",
+  "hinged-wardrobe-25-alt": "Full-height modern wardrobe with storage",
+  "hinged-wardrobe-25-desc": "Full-height modular wardrobe with soft-close doors and well-organized internal shelving.",
+
+  "hinged-wardrobe-26-name": "Blush Pink Wardrobe",
+  "hinged-wardrobe-26-alt": "Blush pink wardrobe with gold handles",
+  "hinged-wardrobe-26-desc": "Stylish blush pink wardrobe featuring elegant golden handles for a modern touch.",
+
+  "hinged-wardrobe-27-name": "Grey Texture Wardrobe",
+  "hinged-wardrobe-27-alt": "Grey textured hinged wardrobe",
+  "hinged-wardrobe-27-desc": "Contemporary grey textured wardrobe offering a premium matte surface finish.",
+
+  "hinged-wardrobe-28-name": "Built-in Entryway Wardrobe",
+  "hinged-wardrobe-28-alt": "Built-in entryway wardrobe with mirror",
+  "hinged-wardrobe-28-desc": "Built-in hinged wardrobe featuring a full mirror and decorative lighting—ideal for hallways.",
+
+  "hinged-wardrobe-29-name": "Dark Oak Hinged Wardrobe",
+  "hinged-wardrobe-29-alt": "Dark oak hinged wardrobe with side shelf",
+  "hinged-wardrobe-29-desc": "Dark oak finish wardrobe featuring open shelving and modern vertical handles.",
+
+  "hinged-wardrobe-30-name": "White Hinged Wardrobe",
+  "hinged-wardrobe-30-alt": "White hinged wardrobe design",
+  "hinged-wardrobe-30-desc": "Crisp white hinged wardrobe with internal drawers and a smooth surface finish.",
+
+  "hinged-wardrobe-31-name": "Modern Grey Finish Wardrobe",
+  "hinged-wardrobe-31-alt": "Modern grey finish wardrobe",
+  "hinged-wardrobe-31-desc": "Modern matte grey wardrobe featuring vertical handles and a modular layout.",
+
+  "hinged-wardrobe-32-name": "Dual Tone Wardrobe Unit",
+  "hinged-wardrobe-32-alt": "Dual tone wardrobe unit design",
+  "hinged-wardrobe-32-desc": "Dual finish wardrobe combining pastel pink and white tones for aesthetic bedrooms.",
+
+  "hinged-wardrobe-33-name": "Sliding Mirror Wardrobe",
+  "hinged-wardrobe-33-alt": "Sliding mirror hinged wardrobe",
+  "hinged-wardrobe-33-desc": "Hinged wardrobe with an integrated sliding mirror panel and modern clean layout.",
+
+  "hinged-wardrobe-34-name": "Classic White Hinged Wardrobe",
+  "hinged-wardrobe-34-alt": "Classic white hinged wardrobe design",
+  "hinged-wardrobe-34-desc": "Simple yet classic white wardrobe with dual handles and spacious compartments.",
+
+  "hinged-wardrobe-35-name": "White Study Combo Wardrobe",
+  "hinged-wardrobe-35-alt": "White wardrobe with study combo unit",
+  "hinged-wardrobe-35-desc": "Combination wardrobe with integrated study desk—ideal for compact bedrooms.",
+
+  "hinged-wardrobe-36-name": "Blush Pink Modern Wardrobe",
+  "hinged-wardrobe-36-alt": "Blush pink modern hinged wardrobe",
+  "hinged-wardrobe-36-desc": "Soft pink modern wardrobe with minimalistic handle design and smooth finish.",
+
+  "hinged-wardrobe-37-name": "Compact Two-Door Wardrobe",
+  "hinged-wardrobe-37-alt": "Compact two-door wardrobe",
+  "hinged-wardrobe-37-desc": "Compact two-door wardrobe designed for efficient space usage and easy access.",
+
+  "hinged-wardrobe-38-name": "Dual Color Standing Wardrobe",
+  "hinged-wardrobe-38-alt": "Dual color standing hinged wardrobe",
+  "hinged-wardrobe-38-desc": "Standing wardrobe featuring an elegant grey and wood contrast finish.",
+
+  "hinged-wardrobe-39-name": "Matte White Wardrobe",
+  "hinged-wardrobe-39-alt": "Matte white wardrobe with modern look",
+  "hinged-wardrobe-39-desc": "Matte white wardrobe featuring subtle texture and a premium minimalist design.",
+
+  "hinged-wardrobe-40-name": "Floor-to-Ceiling Modular Wardrobe",
+  "hinged-wardrobe-40-alt": "Floor to ceiling modular wardrobe design",
+  "hinged-wardrobe-40-desc": "Modular full-height wardrobe offering ample storage along with top cabinets.",
+
+  "hinged-wardrobe-41-name": "Classic Beige Hinged Wardrobe",
+  "hinged-wardrobe-41-alt": "Classic beige hinged wardrobe",
+  "hinged-wardrobe-41-desc": "Elegant beige-toned hinged wardrobe with a timeless wooden aesthetic.",
+
+  "hinged-wardrobe-42-name": "Luxury Matte Finish Wardrobe",
+  "hinged-wardrobe-42-alt": "Luxury matte finish wardrobe",
+  "hinged-wardrobe-42-desc": "Premium high-end matte finish wardrobe crafted for luxurious interiors.",
+
+  "hinged-wardrobe-43-name": "Grey Modular Hinged Wardrobe",
+  "hinged-wardrobe-43-alt": "Grey modular hinged wardrobe with shelves",
+  "hinged-wardrobe-43-desc": "Modular grey hinged wardrobe featuring side shelves and clean modern aesthetics.",
+
+  "hinged-wardrobe-44-name": "Dual Finish Premium Wardrobe",
+  "hinged-wardrobe-44-alt": "Dual finish premium hinged wardrobe",
+  "hinged-wardrobe-44-desc": "Premium hinged wardrobe combining natural wood textures with modern tone finishes.",
+  
+  "executive-table-1-name": "Classic Wooden Executive Table",
+  "executive-table-1-alt": "Classic wooden executive table design",
+  "executive-table-1-desc": "A timeless executive desk crafted with a rich wooden finish, offering elegance and durability for modern offices.",
+
+  "executive-table-2-name": "Modern Dual Tone Executive Desk",
+  "executive-table-2-alt": "Modern dual tone executive desk",
+  "executive-table-2-desc": "Dual-tone executive desk featuring clean lines, a smooth matte top, and functional storage drawers.",
+
+  "executive-table-3-name": "Premium Office Executive Table",
+  "executive-table-3-alt": "Premium office executive table setup",
+  "executive-table-3-desc": "Luxurious office table setup with a commanding presence and a contemporary modular design.",
+
+  "executive-table-4-name": "Walnut Finish Executive Desk",
+  "executive-table-4-alt": "Walnut finish executive desk with storage",
+  "executive-table-4-desc": "Elegant walnut-finish executive desk with smart under-desk storage compartments and a smooth finish.",
+
+  "executive-table-5-name": "L-Shaped Executive Work Desk",
+  "executive-table-5-alt": "L-shaped executive desk with matte finish",
+  "executive-table-5-desc": "Stylish L-shaped executive desk with a matte black top and storage drawers—ideal for corner office setups.",
+
+  "executive-table-6-name": "Minimal Maple Executive Desk",
+  "executive-table-6-alt": "Minimal maple executive desk design",
+  "executive-table-6-desc": "A maple-inspired minimal executive desk featuring an open-leg design and clean aesthetics.",
+
+  "executive-table-7-name": "Compact Corner Executive Desk",
+  "executive-table-7-alt": "Compact corner executive desk with dual finish",
+  "executive-table-7-desc": "Compact dual-tone corner executive desk that blends functionality with space-saving design.",
+
+  "executive-table-8-name": "L-Shaped Modular Executive Table",
+  "executive-table-8-alt": "L-shaped modular executive table",
+  "executive-table-8-desc": "L-shaped modular executive desk perfect for multifunctional office spaces and ergonomic seating.",
+
+  "executive-table-9-name": "Simple Wooden Executive Table",
+  "executive-table-9-alt": "Simple wooden executive table design",
+  "executive-table-9-desc": "Straightforward wooden executive desk ideal for home offices and small professional setups.",
+
+  "executive-table-10-name": "Luxury Executive Work Table",
+  "executive-table-10-alt": "Luxury executive work table",
+  "executive-table-10-desc": "Luxury-grade executive desk with an integrated return unit and premium laminate finish.",
+
+  "executive-table-11-name": "Contemporary Office Table",
+  "executive-table-11-alt": "Contemporary office table in grey-blue",
+  "executive-table-11-desc": "Sleek executive table with a glossy surface and contrasting side panels for modern office interiors.",
+
+  "executive-table-12-name": "Dual Desk Executive Table",
+  "executive-table-12-alt": "Dual executive desk for meetings",
+  "executive-table-12-desc": "Dual-desk executive table designed for collaborative meetings and professional work environments.",
+
+  "executive-table-13-name": "Wooden Veneer Executive Table",
+  "executive-table-13-alt": "Wooden veneer executive table with bookshelf",
+  "executive-table-13-desc": "Executive table finished in natural wooden veneer with an integrated bookshelf and side storage.",
+
+  "executive-table-14-name": "Wide Modern Executive Desk",
+  "executive-table-14-alt": "Wide modern executive desk",
+  "executive-table-14-desc": "Wide executive desk with a layered wooden texture and a floating-top design.",
+
+  "executive-table-15-name": "Professional Modular Executive Desk",
+  "executive-table-15-alt": "Professional modular executive desk setup",
+  "executive-table-15-desc": "Professional modular executive desk featuring open shelving and a built-in side cabinet.",
+
+  "executive-table-16-name": "Glass Finish Executive Desk",
+  "executive-table-16-alt": "Glass finish executive table",
+  "executive-table-16-desc": "Modern executive table featuring a frosted glass top, solid base, and hidden storage compartments.",
+
+  "executive-table-17-name": "Corner Executive Table with Return",
+  "executive-table-17-alt": "Corner executive table with return desk",
+  "executive-table-17-desc": "Corner executive desk featuring a return unit and dual-finish styling for a modern office setup.",
+  
+  "console-1-name": "Minimal White Console Unit",
+  "console-1-alt": "Minimal white console with tapered legs",
+  "console-1-desc": "A sleek white console with a clean silhouette and ample storage for modern interiors.",
+
+  "console-2-name": "Textured Wooden Console",
+  "console-2-alt": "Textured wooden console with drawers",
+  "console-2-desc": "Elegant textured wooden console table featuring spacious drawers and a matte finish.",
+
+  "console-3-name": "Classic Mirror Console",
+  "console-3-alt": "Classic console with mirror frame",
+  "console-3-desc": "A stylish wooden console paired with a decorative mirror, perfect for hallways and entry areas.",
+
+  "console-4-name": "Dual Tone Console Cabinet",
+  "console-4-alt": "Dual tone console cabinet with glass shelf",
+  "console-4-desc": "A dual-finish console cabinet with white drawers and a contrasting dark frame for a modern touch.",
+
+  "console-5-name": "Compact Oak Console",
+  "console-5-alt": "Compact oak console table",
+  "console-5-desc": "A compact oak console table that blends naturally with minimalist home décor.",
+
+  "console-6-name": "Contemporary Sideboard Console",
+  "console-6-alt": "Contemporary sideboard with wooden drawers",
+  "console-6-desc": "A spacious sideboard-inspired console featuring wooden drawers and open shelves.",
+
+  "console-7-name": "White Drawer Console",
+  "console-7-alt": "White drawer console table",
+  "console-7-desc": "A modern white console with premium-finish drawers ideal for stylish living rooms.",
+
+  "console-8-name": "Grey Minimalist Console",
+  "console-8-alt": "Grey minimalist console with flat panels",
+  "console-8-desc": "A flat-panel minimalist grey console perfect for sleek and modern interior designs.",
+
+  "console-9-name": "Compact Beige Console",
+  "console-9-alt": "Compact beige console unit",
+  "console-9-desc": "A compact beige console designed to fit small spaces while providing ample storage.",
+
+  "console-10-name": "Modern Walnut Console",
+  "console-10-alt": "Modern walnut console table",
+  "console-10-desc": "A contemporary walnut wood console that complements both classic and modern interiors.",
+
+  "console-11-name": "Three Drawer Side Console",
+  "console-11-alt": "Three drawer wooden side console",
+  "console-11-desc": "A three-drawer side console in a light wood tone with a warm natural finish.",
+
+  "console-12-name": "Matte Grey Console",
+  "console-12-alt": "Matte grey console table",
+  "console-12-desc": "A modern console table featuring matte grey drawers and a simple, elegant design.",
+
+  "console-13-name": "Dark Wood Console",
+  "console-13-alt": "Dark wood console with drawers",
+  "console-13-desc": "A rich dark wood console cabinet ideal for luxurious entryways and living spaces.",
+
+  "console-14-name": "Industrial Console Cabinet",
+  "console-14-alt": "Industrial console cabinet with vertical handles",
+  "console-14-desc": "An industrial-style console featuring vertical handles and metallic edge detailing.",
+
+  "console-15-name": "L-Shaped Counter Console",
+  "console-15-alt": "L-shaped console counter",
+  "console-15-desc": "A multifunctional L-shaped console counter with storage drawers.",
+
+  "console-16-name": "Mirror Finish Floating Console",
+  "console-16-alt": "Floating mirror finish console",
+  "console-16-desc": "A luxury floating console with a mirror finish and integrated lighting.",
+
+  "console-17-name": "Black Modern Console",
+  "console-17-alt": "Black modern console table",
+  "console-17-desc": "A matte black console table that creates a bold contrast against light-toned walls.",
+
+  "console-18-name": "Wooden Minimal Drawer Console",
+  "console-18-alt": "Wooden drawer console with mirror",
+  "console-18-desc": "A simple wooden console with flat drawers and an integrated mirror space.",
+
+  "console-19-name": "Compact Kitchen Console",
+  "console-19-alt": "Compact kitchen console table",
+  "console-19-desc": "A compact utility console ideal for use as small kitchen or dining storage.",
+
+  "console-20-name": "Teak Finish Wooden Console",
+  "console-20-alt": "Teak finish console table",
+  "console-20-desc": "A stylish teak finish console with a long body and durable wooden construction.",
+
+  "console-21-name": "Two-Tone Drawer Console",
+  "console-21-alt": "Two-tone console with dark panels",
+  "console-21-desc": "A two-tone console featuring contrasting panels and minimalistic drawer handles.",
+
+  "console-22-name": "Lightwood Console Unit",
+  "console-22-alt": "Lightwood console cabinet",
+  "console-22-desc": "A versatile and elegant lightwood console cabinet suitable for contemporary interiors.",
+
+  "console-23-name": "Dark Grey Floating Console",
+  "console-23-alt": "Dark grey floating wall console",
+  "console-23-desc": "A wall-mounted floating console with a clean, smooth matte finish.",
+
+  "console-24-name": "Round Mirror Console Unit",
+  "console-24-alt": "Console unit with round mirror",
+  "console-24-desc": "An elegant console unit featuring a circular mirror and two spacious drawers.",
+
+  "console-25-name": "Dual Tone Storage Console",
+  "console-25-alt": "Dual tone storage console with grey drawers",
+  "console-25-desc": "A stylish storage console with dual color drawers and a matte-finish body.",
+
+  "console-26-name": "White Wooden Console",
+  "console-26-alt": "White wooden console cabinet",
+  "console-26-desc": "A white wooden console cabinet with natural wood accents and a soft finish.",
+
+  "console-27-name": "Grooved Panel Console",
+  "console-27-alt": "Grooved panel console design",
+  "console-27-desc": "A sophisticated grooved panel console design ideal for hallways and entrances.",
+
+  "console-28-name": "Matte Black Kitchen Console",
+  "console-28-alt": "Matte black kitchen console unit",
+  "console-28-desc": "A matte finish console with wide drawers suitable for kitchens and dining areas.",
+
+  "console-29-name": "Minimal Wall Console",
+  "console-29-alt": "Minimal wall-mounted console unit",
+  "console-29-desc": "A minimal wall-mounted console ideal for compact rooms and entryways.",
+
+  "console-30-name": "Dual Drawer Wooden Console",
+  "console-30-alt": "Dual drawer wooden console design",
+  "console-30-desc": "A simple and functional two-tone wooden console design.",
+  
+  "crockery-unit-1-name": "Modern Glass Crockery Unit",
+  "crockery-unit-1-alt": "Modern glass crockery cabinet with lighting",
+  "crockery-unit-1-desc": "Elegant glass-front crockery unit with warm integrated lighting and spacious display shelves.",
+
+  "crockery-unit-2-name": "Compact Dual Tone Crockery Cabinet",
+  "crockery-unit-2-alt": "Dual tone crockery cabinet design",
+  "crockery-unit-2-desc": "A space-saving dual-finish crockery unit featuring sleek upper glass shelves.",
+
+  "crockery-unit-3-name": "Contemporary Crockery Storage",
+  "crockery-unit-3-alt": "Contemporary crockery storage cabinet",
+  "crockery-unit-3-desc": "A contemporary crockery storage unit with a modern grey finish and an open shelf.",
+
+  "crockery-unit-4-name": "White Crockery Display Unit",
+  "crockery-unit-4-alt": "White crockery display cabinet with glass doors",
+  "crockery-unit-4-desc": "A stylish white crockery unit with tall glass doors and subtle built-in lighting.",
+
+  "crockery-unit-5-name": "Black and Wooden Crockery Unit",
+  "crockery-unit-5-alt": "Black and wood finish crockery unit",
+  "crockery-unit-5-desc": "A modern combination of matte black and oak wood design, ideal for dining spaces.",
+
+  "crockery-unit-6-name": "Grey Kitchen Crockery Unit",
+  "crockery-unit-6-alt": "Grey kitchen crockery cabinet",
+  "crockery-unit-6-desc": "A minimalist grey crockery cabinet with upper glass doors and soft LED highlights.",
+
+  "crockery-unit-7-name": "Classic Crockery Storage",
+  "crockery-unit-7-alt": "Classic crockery storage with warm lighting",
+  "crockery-unit-7-desc": "A classic wooden crockery cabinet featuring warm back lighting and open shelves.",
+
+  "crockery-unit-8-name": "Elegant Wall Crockery Cabinet",
+  "crockery-unit-8-alt": "Elegant wall-mounted crockery cabinet",
+  "crockery-unit-8-desc": "A dual-level wall-mounted crockery cabinet suitable for modern dining setups.",
+
+  "crockery-unit-9-name": "Laminated Crockery Unit",
+  "crockery-unit-9-alt": "Laminated crockery unit with wooden texture",
+  "crockery-unit-9-desc": "A glossy laminated crockery unit that blends glass, wood, and metal detailing.",
+
+  "crockery-unit-10-name": "Brown Crockery Showcase",
+  "crockery-unit-10-alt": "Brown crockery showcase with storage",
+  "crockery-unit-10-desc": "A crockery showcase with a rich brown finish and contrasting white drawers.",
+
+  "crockery-unit-11-name": "Glass Display Crockery Cabinet",
+  "crockery-unit-11-alt": "Glass display crockery cabinet",
+  "crockery-unit-11-desc": "A glass display unit for dining rooms featuring subtle LED illumination.",
+
+  "crockery-unit-12-name": "Compact Modular Crockery Unit",
+  "crockery-unit-12-alt": "Compact modular crockery unit",
+  "crockery-unit-12-desc": "A compact modular crockery setup with lower drawers and vertical storage sections.",
+
+  "crockery-unit-13-name": "Grey & Wood Finish Unit",
+  "crockery-unit-13-alt": "Grey and wood finish crockery cabinet",
+  "crockery-unit-13-desc": "A dual-tone crockery cabinet combining modern grey and wood-grain finishes.",
+
+  "crockery-unit-14-name": "Floating Crockery Unit",
+  "crockery-unit-14-alt": "Wall mounted floating crockery unit",
+  "crockery-unit-14-desc": "A floating wall-mounted crockery unit ideal for compact dining corners.",
+
+  "crockery-unit-15-name": "Open Shelf Crockery Display",
+  "crockery-unit-15-alt": "Open shelf crockery display",
+  "crockery-unit-15-desc": "A vertical open-shelf crockery display designed for elegant dinnerware collections.",
+
+  "crockery-unit-16-name": "Modern Lighted Crockery Unit",
+  "crockery-unit-16-alt": "Modern lighted crockery unit",
+  "crockery-unit-16-desc": "A stylish LED-illuminated crockery display cabinet with a modern look.",
+
+  "crockery-unit-17-name": "Compact Crockery Setup",
+  "crockery-unit-17-alt": "Compact crockery setup with workspace",
+  "crockery-unit-17-desc": "A functional crockery unit with an integrated workspace, perfect for compact homes.",
+
+  "crockery-unit-18-name": "Two-Tone Crockery Cupboard",
+  "crockery-unit-18-alt": "Two tone crockery cupboard",
+  "crockery-unit-18-desc": "A matte grey and beige crockery cupboard that blends well with modern interiors.",
+
+  "crockery-unit-19-name": "Classic White Crockery Unit",
+  "crockery-unit-19-alt": "Classic white crockery unit",
+  "crockery-unit-19-desc": "An elegant white crockery unit featuring warm lighting and built-in shelves.",
+
+  "crockery-unit-20-name": "Wooden Display Cabinet",
+  "crockery-unit-20-alt": "Wooden display cabinet with lighting",
+  "crockery-unit-20-desc": "A wooden crockery cabinet with warm internal lighting and glass shutters.",
+
+  "crockery-unit-21-name": "Contemporary Crockery Unit",
+  "crockery-unit-21-alt": "Contemporary crockery unit with glass shelves",
+  "crockery-unit-21-desc": "A contemporary crockery cabinet featuring glass shelves and a wooden frame design.",
+
+  "crockery-unit-22-name": "Blue Accent Crockery Unit",
+  "crockery-unit-22-alt": "Blue accent crockery display unit",
+  "crockery-unit-22-desc": "A vibrant blue-toned crockery unit enhanced with LED strip lighting.",
+
+  "crockery-unit-23-name": "Dual Door Crockery Cabinet",
+  "crockery-unit-23-alt": "Dual door crockery cabinet",
+  "crockery-unit-23-desc": "A dual-door crockery cabinet providing a mix of drawers and open racks.",
+
+  "crockery-unit-24-name": "Corner Crockery Unit",
+  "crockery-unit-24-alt": "Corner crockery unit for dining",
+  "crockery-unit-24-desc": "A compact corner crockery cabinet featuring curved glass shutters and warm lighting.",
+
+  "crockery-unit-25-name": "Luxury Crockery Showcase",
+  "crockery-unit-25-alt": "Luxury crockery showcase with golden lighting",
+  "crockery-unit-25-desc": "A high-end crockery showcase with ambient golden lighting and frosted panels.",
+
+  "crockery-unit-26-name": "Long Crockery Console",
+  "crockery-unit-26-alt": "Long crockery console with wooden base",
+  "crockery-unit-26-desc": "A long horizontal crockery console with integrated drawers and minimal handles.",
+
+  "crockery-unit-27-name": "Matte Grey Crockery Unit",
+  "crockery-unit-27-alt": "Matte grey crockery unit with lighting",
+  "crockery-unit-27-desc": "A matte finish crockery cabinet featuring spacious shelves and built-in lighting.",
+
+  "crockery-unit-28-name": "Black and White Crockery Unit",
+  "crockery-unit-28-alt": "Black and white crockery cabinet design",
+  "crockery-unit-28-desc": "A black and white contrasting crockery unit offering a stylish dining appeal.",
+
+  "crockery-unit-29-name": "Compact Tall Crockery Cabinet",
+  "crockery-unit-29-alt": "Compact tall crockery cabinet",
+  "crockery-unit-29-desc": "A compact tall crockery unit designed for narrow spaces with a vertical storage layout.",
+  
+  "below-stairs-1-name": "Compact Below Stairs Storage",
+  "below-stairs-1-alt": "Compact under stairs storage cabinet",
+  "below-stairs-1-desc": "A smartly designed under-stairs storage unit featuring drawers and shelving for efficient space optimization.",
+
+  "below-stairs-2-name": "Luxury Under Stairs Showcase",
+  "below-stairs-2-alt": "Luxury under stairs showcase with lighting",
+  "below-stairs-2-desc": "An elegant below-stairs showcase unit with LED backlighting and glass cabinets for decorative display.",
+
+  "below-stairs-3-name": "Wood & White Storage Unit",
+  "below-stairs-3-alt": "Wood and white finish under stairs cabinet",
+  "below-stairs-3-desc": "A clean and modern combination of wooden and white laminate finish for staircase storage areas.",
+
+  "below-stairs-4-name": "Minimal Wooden Staircase Storage",
+  "below-stairs-4-alt": "Minimal wooden under stairs storage",
+  "below-stairs-4-desc": "A simple yet functional under-stair storage unit made with premium wood veneer and ample shelving.",
+
+  "below-stairs-5-name": "Modern White Storage Setup",
+  "below-stairs-5-alt": "Modern white below stairs setup",
+  "below-stairs-5-desc": "A full white modular under-stairs unit featuring tall cabinets and handle-free integrated drawers.",
+
+  "below-stairs-6-name": "Drawer Fitted Stair Storage",
+  "below-stairs-6-alt": "Under stairs drawer unit with steps design",
+  "below-stairs-6-desc": "A neatly built pull-out drawer unit under the staircase — ideal for compact homes.",
+
+  "below-stairs-7-name": "Classic Wooden Storage Under Stairs",
+  "below-stairs-7-alt": "Classic wooden storage under stairs",
+  "below-stairs-7-desc": "A traditional wooden under-stair storage setup with paneled doors and deep utility cabinets.",
+
+  "below-stairs-8-name": "Dual Tone Wardrobe Under Stairs",
+  "below-stairs-8-alt": "Dual tone wardrobe under stairs design",
+  "below-stairs-8-desc": "A custom wardrobe designed beneath the stairs, featuring a dual-tone matte finish.",
+
+  "below-stairs-9-name": "LED Showcase Stair Storage",
+  "below-stairs-9-alt": "LED showcase under stairs unit",
+  "below-stairs-9-desc": "A stylish under-stairs storage cabinet with LED lighting and open showcase display sections.",
+  
+  "accent-chair-1-name": "Modern Grey Accent Chair",
+  "accent-chair-1-alt": "Modern grey fabric accent chair",
+  "accent-chair-1-desc": "Soft grey upholstered accent chair with sleek black metal legs, ideal for living rooms or bedrooms.",
+
+  "accent-chair-2-name": "Textured Beige Lounge Chair",
+  "accent-chair-2-alt": "Textured beige lounge chair with wooden accents",
+  "accent-chair-2-desc": "Elegant beige accent chair featuring ribbed fabric and a curved backrest for enhanced comfort.",
+
+  "accent-chair-3-name": "Velvet Beige Armchair",
+  "accent-chair-3-alt": "Velvet beige armchair with plush cushion",
+  "accent-chair-3-desc": "Luxurious velvet armchair with gold-tipped legs and high-density cushioning for premium comfort.",
+
+  "accent-chair-4-name": "Classic Cream Accent Chair",
+  "accent-chair-4-alt": "Classic cream accent chair design",
+  "accent-chair-4-desc": "A stylish cream accent chair perfect for cozy corners, reading spaces, and modern interiors.",
+
+  "accent-chair-5-name": "Scandinavian Style Accent Set",
+  "accent-chair-5-alt": "Scandinavian style accent chair set",
+  "accent-chair-5-desc": "A minimalist Scandinavian chair set with soft upholstery and natural wooden detailing.",
+
+  "accent-chair-6-name": "Elegant White Accent Pair",
+  "accent-chair-6-alt": "Elegant white accent chair pair",
+  "accent-chair-6-desc": "Elegant white accent chairs with gold legs, designed to elevate your home's aesthetic.",
+
+  "accent-chair-7-name": "Neutral Fabric Lounge Chair",
+  "accent-chair-7-alt": "Neutral fabric lounge chair with soft backrest",
+  "accent-chair-7-desc": "A neutral-toned lounge chair with a soft rounded design offering sophistication and comfort.",
+
+  "accent-chair-8-name": "Contemporary Beige Chair",
+  "accent-chair-8-alt": "Contemporary beige chair with golden frame",
+  "accent-chair-8-desc": "A contemporary beige accent chair with a gold-finished frame, blending luxury with simplicity.",
+
+  "accent-chair-9-name": "Blue Velvet Accent Chair",
+  "accent-chair-9-alt": "Blue velvet accent chair set",
+  "accent-chair-9-desc": "Chic blue velvet accent chairs that add a vibrant touch to both modern and minimal interiors.",
+
+  "accent-chair-10-name": "Cream Accent Sofa Chair Set",
+  "accent-chair-10-alt": "Cream accent sofa chair set with cushions",
+  "accent-chair-10-desc": "A pair of soft cream accent chairs with matching cushions, designed for stylish comfort.",
+
+  "tall-unit-1-name": "Classic Wooden Tall Unit",
+  "tall-unit-1-alt": "Classic wooden tall unit with white base cabinets",
+  "tall-unit-1-desc": "A spacious tall wooden unit with white base storage and open shelving, ideal for books and decor.",
+
+  "tall-unit-2-name": "Corner Black Tall Unit",
+  "tall-unit-2-alt": "Corner black tall unit with storage drawers",
+  "tall-unit-2-desc": "A stylish black tall unit designed for corner spaces, featuring ample shelving and lower drawer storage.",
+
+  "tall-unit-3-name": "Grey Modular Tall Storage",
+  "tall-unit-3-alt": "Grey modular tall storage unit",
+  "tall-unit-3-desc": "A contemporary modular tall cabinet with a combination of closed and open shelving sections.",
+
+  "tall-unit-4-name": "Wooden Display Tall Unit",
+  "tall-unit-4-alt": "Wooden display tall cabinet with geometric shelves",
+  "tall-unit-4-desc": "A premium wooden tall unit with geometric shelf design and integrated lighting accents.",
+
+  "tall-unit-5-name": "Matte Finish Tall Cabinet",
+  "tall-unit-5-alt": "Matte finish tall cabinet with desk integration",
+  "tall-unit-5-desc": "A dual-tone tall storage cabinet with matte grey panels and compact workspace integration.",
+
+  "tall-unit-6-name": "Luxury Glass Tall Display Unit",
+  "tall-unit-6-alt": "Luxury glass tall display unit with LED lighting",
+  "tall-unit-6-desc": "An elegant glass-front tall display unit with warm LED backlighting, ideal for modern homes.",
+
+  "tall-unit-7-name": "Backlit Wooden Tall Wall",
+  "tall-unit-7-alt": "Backlit wooden tall wall with ambient lighting",
+  "tall-unit-7-desc": "A tall wooden wall-mounted unit with continuous LED strip lighting, perfect for living or lounge areas.",
+  
+  "contactHeading2": "Get in Touch",
+  "contactSub": "Have a question or need a custom furniture quote? We’d love to hear from you.",
+  "contactName": "Name",
+  "contactNamePlaceholder": "Your name",
+  "contactEmail": "Email",
+  "contactEmailPlaceholder": "you@example.com",
+  "contactMessage": "Message",
+  "contactMessagePlaceholder": "Tell us about your project",
+  "contactSend": "Send Message",
+  "contactSending": "Sending...",
+  "contactSuccess": "Message sent successfully!",
+  
+  "contactPhone": "Phone",
+  "contactAddress": "Address",
+  "contactAddressValue": "Shop 2, Gayathri Paradise, Opp. Gayathri Mandir, Kanadia, Indore – 452016",
+
+  "contactHours": "Opening Hours",
+  "contactMonFri": "Mon — Fri: 10:00am — 6:00pm",
+  "contactSat": "Sat: 10:00am — 2:00pm",
+  "contactSun": "Sun: Closed",
+
+  "contactMapTitle": "Office location"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

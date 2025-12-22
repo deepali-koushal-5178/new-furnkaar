@@ -11,12 +11,27 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 import { useRouter } from "next/navigation";
-import { useLang } from "./LangContext";
 
 export default function Products() {
-  const router = useRouter();
-  const { t } = useLang();
-const categories = Object.keys(t.categoryNames || {});
+  const router = useRouter()
+  const categories = [
+    "All",
+    "Kitchens",
+    "Sliding-Wardrobes",
+    "Single-Bed",
+    "Double-Bed",
+    "Dressing-units",
+    "Shoe-rack",
+    "Working-tables",
+    "Accent-chairs",
+    "Tall-unit",
+    "Study-Unit",
+    "Hinged-Wardrobe",
+    "Executive-Table",
+    "Console",
+    "Crockery-unit",
+    "Below-stairs",
+  ];
 
   const [selectedCategory, setSelectedCategory] = useState(null);
   const swiperRef = useRef(null);
@@ -70,8 +85,11 @@ const categories = Object.keys(t.categoryNames || {});
 
   return (
     <section className={styles.products}>
-      <h2>{t.whatWeMake}</h2>
-      <p className={styles.sub}>{t.sub}</p>
+      <h2>What We Make</h2>
+      <p className={styles.sub}>
+        Explore our range of factory-finished modular furniture — from kitchens and wardrobes to
+        office and commercial spaces.
+      </p>
 
       <div className={styles.grid}>
         {categoryThumbs.map((cat) => (
@@ -92,22 +110,31 @@ const categories = Object.keys(t.categoryNames || {});
                     setAutoStopped(false);
                   }}
                 >
-                  {t.view} {t.categoryNames?.[cat.category] || cat.category}
+                  View {cat.category}
                 </button>
               </div>
             </div>
             <div className={styles.cardContent}>
-              <h3>{t.categoryNames?.[cat.category] || cat.category}</h3>
+              <h3>{cat.category}</h3>
             </div>
           </div>
         ))}
       </div>
 
       {selectedCategory && (
-        <div className={styles.modalBackdrop} onClick={() => setSelectedCategory(null)}>
-          <div className={styles.modalBox} onClick={(e) => e.stopPropagation()}>
-            <button className={styles.closeBtn} onClick={() => setSelectedCategory(null)}>
-              {t.close}
+        <div
+          className={styles.modalBackdrop}
+          onClick={() => setSelectedCategory(null)}
+        >
+          <div
+            className={styles.modalBox}
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              className={styles.closeBtn}
+              onClick={() => setSelectedCategory(null)}
+            >
+              ✕
             </button>
 
             <div className={styles.modalLeft}>
@@ -117,9 +144,9 @@ const categories = Object.keys(t.categoryNames || {});
                   e.stopPropagation();
                   handlePrev();
                 }}
-                aria-label={t.prev}
+                aria-label="Previous"
               >
-                {t.prev}
+                ‹
               </button>
 
               <Swiper
@@ -128,7 +155,7 @@ const categories = Object.keys(t.categoryNames || {});
                 autoplay={{
                   delay: 2500,
                   disableOnInteraction: false,
-                  pauseOnMouseEnter: true
+                  pauseOnMouseEnter: true,
                 }}
                 loop
                 onSwiper={(swiper) => (swiperRef.current = swiper)}
@@ -138,7 +165,9 @@ const categories = Object.keys(t.categoryNames || {});
               >
                 {selectedItems.map((item) => (
                   <SwiperSlide key={item.id}>
-                    <div style={{ width: "100%", display: "flex", justifyContent: "center" }}>
+                    <div
+                      style={{ width: "100%", display: "flex", justifyContent: "center" }}
+                    >
                       <TransformWrapper
                         initialScale={1}
                         minScale={1}
@@ -175,32 +204,30 @@ const categories = Object.keys(t.categoryNames || {});
                   e.stopPropagation();
                   handleNext();
                 }}
-                aria-label={t.next}
+                aria-label="Next"
               >
-                {t.next}
+                ›
               </button>
             </div>
-
             <div className={styles.modalRight}>
-              <h3>{t.categoryNames?.[selectedItems[0]?.category] || selectedItems[0]?.category}</h3>
+              <h3>{selectedItems[0]?.category}</h3>
               <p className={styles.modalDesc}>
-                {t.modalDescTemplate?.replace(
-                  "{category}",
-                  (t.categoryNames?.[selectedItems[0]?.category] || selectedItems[0]?.category).toLowerCase()
-                )}
+                Explore all our {selectedItems[0]?.category.toLowerCase()} designs — each crafted with precision, style, and durability.
               </p>
 
               <button
                 className={styles.catalogBtn}
                 onClick={() => {
-                  router.push(`/catalog?category=${selectedCategory}`);
+                  router.push(`/catalog?category=${selectedCategory}`)
                 }}
               >
-                {t.viewAll}
+                View All Designs →
               </button>
 
+
               <p className={styles.modalCTA}>
-                {t.interested} <a href="#contact">{t.discuss}</a>
+                Interested in something similar?{" "}
+                <a href="#contact">Let’s discuss your project.</a>
               </p>
             </div>
           </div>

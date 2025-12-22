@@ -4,19 +4,16 @@ import { useState, useRef } from "react";
 import Image from "next/image";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import styles from "../Styles/Projects.module.css";
-import { useLang } from "./LangContext";
 
 export default function Projects() {
-  const { t } = useLang();
-
   const projects = [
-    { img: "/images/Kitchens/kitchen33.jpg", title: t.projectAltKitchen },
-    { img: "/images/Sliding-Wardrobe/wb32.jpg", title: t.projectAltWardrobe },
-    { img: "/images/tv1.jpg", title: t.projectAltTVUnit },
-    { img: "/images/Double-Bed/db10.jpg", title: t.projectAltBedroom }
+    { img: "/images/Kitchens/kitchen16.jpg", title: "Modular Kitchen – Indore" },
+    { img: "/images/Sliding-Wardrobe/wb22.jpg", title: "Wardrobe Design – Bhopal" },
+    { img: "/images/tv4.jpg", title: "TV Unit – Pune" },
+    { img: "/images/Double-Bed/db30.jpg", title: "Bedroom Set – Ujjain" },
   ];
 
-  const [selectedIndex, setSelectedIndex] = useState(null); 
+  const [selectedIndex, setSelectedIndex] = useState(null);
   const startX = useRef(0);
   const endX = useRef(0);
 
@@ -30,10 +27,28 @@ export default function Projects() {
     setSelectedIndex((prev) => (prev === projects.length - 1 ? 0 : prev + 1));
   };
 
+  // const handleTouchStart = (e) => {
+  //   startX.current = e.touches ? e.touches[0].clientX : e.clientX;
+  // };
+
+  // const handleTouchMove = (e) => {
+  //   endX.current = e.touches ? e.touches[0].clientX : e.clientX;
+  // };
+
+  // const handleTouchEnd = (e) => {
+  //   const diff = startX.current - endX.current;
+  //   if (Math.abs(diff) > 50) {
+  //     if (diff > 0) handleNext(e); // swipe left
+  //     else handlePrev(e); // swipe right
+  //   }
+  // };
+
   return (
     <section className={styles.projects}>
-      <h2>{t.projectsHeading}</h2>
-      <p className={styles.subtext}>{t.projectsSubtext}</p>
+      <h2>Our Latest Modular Furniture Projects</h2>
+      <p className={styles.subtext}>
+        Explore some of our recent factory-finished furniture installations across India.
+      </p>
 
       <div className={styles.grid}>
         {projects.map((p, i) => (
@@ -41,15 +56,14 @@ export default function Projects() {
             <div className={styles.imageBox}>
               <Image
                 src={p.img}
-                alt={p.title || "Project Image"}
+                alt={p.title}
                 width={400}
                 height={250}
                 className={styles.projectImage}
-                loading="lazy"
               />
               <div className={styles.overlay}>
                 <button className={styles.viewBtn} onClick={() => setSelectedIndex(i)}>
-                  {t.viewProject}
+                  View Project
                 </button>
               </div>
             </div>
@@ -60,13 +74,12 @@ export default function Projects() {
 
       {selectedIndex !== null && (
         <div className={styles.modalBackdrop} onClick={() => setSelectedIndex(null)}>
-          <div className={styles.modalBox} onClick={(e) => e.stopPropagation()}>
-            
-            <button
-              className={styles.closeBtn}
-              aria-label={t.modalClose}
-              onClick={() => setSelectedIndex(null)}
-            >
+          <div
+            className={styles.modalBox}
+            onClick={(e) => e.stopPropagation()}
+          
+          >
+            <button className={styles.closeBtn} onClick={() => setSelectedIndex(null)}>
               ✕
             </button>
 

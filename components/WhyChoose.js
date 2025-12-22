@@ -11,72 +11,72 @@ import {
   FaCog,
   FaIndustry,
   FaBoxOpen,
-  FaCheckCircle
+  FaCheckCircle,
 } from "react-icons/fa";
-import { useLang } from "./LangContext";
 
 export default function WhyMerged() {
-  const { t } = useLang();
-
   const cards = [
     {
       icon: <FaClock />,
-      title: t.why1Title,
-      text: t.why1Text
+      title: "Time-Saving",
+      text: "No weeks of on-site carpentry. Everything is pre-built in the factory.",
     },
     {
       icon: <FaBroom />,
-      title: t.why2Title,
-      text: t.why2Text
+      title: "Dust-Free Process",
+      text: "Your home stays clean — no cutting, dust or disturbance.",
     },
     {
       icon: <FaPalette />,
-      title: t.why3Title,
-      text: t.why3Text
+      title: "Fully Customizable",
+      text: "Designed to match your space, color palette and style.",
     },
     {
       icon: <FaGem />,
-      title: t.why4Title,
-      text: t.why4Text
+      title: "Premium Finish",
+      text: "Perfect edges, smooth panels and flawless craftsmanship.",
     },
     {
       icon: <FaHammer />,
-      title: t.why5Title,
-      text: t.why5Text
+      title: "Durable Build Quality",
+      text: "Made from high-grade engineered boards & branded hardware.",
     },
+
+    // 5 from Why Choose Section
     {
       icon: <FaTrophy />,
-      title: t.why6Title,
-      text: t.why6Text
+      title: "10+ Years Experience",
+      text: "Trusted by homeowners, architects and commercial clients.",
     },
     {
       icon: <FaCog />,
-      title: t.why7Title,
-      text: t.why7Text
+      title: "German–Italian Technology",
+      text: "Precision cutting, edge banding & premium finishing.",
     },
     {
       icon: <FaIndustry />,
-      title: t.why8Title,
-      text: t.why8Text
+      title: "In-House Manufacturing",
+      text: "Built entirely in our Indore factory — no outsourcing.",
     },
     {
       icon: <FaBoxOpen />,
-      title: t.why9Title,
-      text: t.why9Text
+      title: "End-to-End Service",
+      text: "Design, manufacturing, installation & after-sales under one roof.",
     },
     {
       icon: <FaCheckCircle />,
-      title: t.why10Title,
-      text: t.why10Text
-    }
+      title: "Quality-Assured Materials",
+      text: "High-grade boards, laminates & fittings for long life.",
+    },
   ];
 
   return (
     <section className={styles.section}>
-      <h2>{t.whyChooseHeading}</h2>
+      <h2>Why Homeowners & Professionals Trust Shilpkaar Furnitures</h2>
 
       <p className={styles.intro}>
-        {t.whyChooseIntro}
+        Combining the benefits of factory-finished modular furniture with
+        the expertise of a 10+ year trusted manufacturing brand.
       </p>
 
       <div className={styles.grid}>

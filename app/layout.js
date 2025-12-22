@@ -1,28 +1,23 @@
 import "./globals.css";
 import Navbar from "@/components/Navbar";
-import MobileCTA from "@/components/MobileCTA";
 import ContactPage from "@/components/Contact";
-import { LangProvider } from "@/components/LangContext";
-import { getDictionary } from "@/lib/getDictionary";
+import MobileCTA from "@/components/MobileCTA";
+import CTAButton from "@/components/CTAButton";
 
 export const metadata = {
   title: "Shilpkaar | Factory-Finished Furniture",
   description: "Premium modular furniture crafted with precision.",
 };
 
-export default async function RootLayout({ children }) {
-    const dict = await getDictionary("en"); // default language
-
+export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-                <LangProvider initialLang="en" dict={dict}>
-
         <Navbar />
         {children}
-        <MobileCTA />
-        <ContactPage />
-        </LangProvider>
+         {/* <CTAButton mode="floating" /> */}
+<MobileCTA /> 
+        <ContactPage/>
       </body>
     </html>
   );

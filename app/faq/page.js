@@ -7,7 +7,7 @@ export const metadata = {
 
 export default function FAQPage() {
   return (
-    <main>
+    <main style={{ padding: "100px 20px" }}>
       <FAQ />
     </main>
   );

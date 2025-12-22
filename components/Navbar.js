@@ -1,19 +1,20 @@
 "use client";
-
 import { useEffect, useState } from "react";
-import { usePathname, useRouter } from "next/navigation";
-import { FaBars, FaTimes } from "react-icons/fa";
+import { usePathname } from "next/navigation";
+import { FaBars, FaTimes, FaUserCircle, FaEnvelope, FaLock, FaCheckCircle } from "react-icons/fa";
+import styles from "../Styles/Navbar.module.css";
 import Link from "next/link";
 import CTAButton from "./CTAButton";
-import styles from "../Styles/Navbar.module.css";
+
 
 export default function Navbar() {
-  const [scrolled, setScrolled] = useState(false);
-  const [menuOpen, setMenuOpen] = useState(false);
-
-  const pathname = usePathname();
-  const router = useRouter();
-  const isHindi = pathname.startsWith("/hindi");
+  const [scrolled, setScrolled] = useState(false)
+  const [menuOpen, setMenuOpen] = useState(false)
+  const [showLogin, setShowLogin] = useState(false)
+  const [isSignup, setIsSignup] = useState(false)
+  const [formData, setFormData] = useState({ email: "", password: "", confirm: "" })
+  const [successMsg, setSuccessMsg] = useState("")
+  const pathname = usePathname()
   const [mounted, setMounted] = useState(false);
 
 useEffect(() => {
@@ -21,126 +22,70 @@ useEffect(() => {
 }, []);
 
 
-  const switchLang = () => {
-    if (isHindi) {
-      router.push(pathname.replace("/hindi", ""));
-    } else {
-      router.push("/hindi" + pathname);
-    }
+  useEffect(() => {
+    const handleScroll = () => setScrolled(window.scrollY > 50)
+    window.addEventListener("scroll", handleScroll)
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
+  const toggleMenu = () => setMenuOpen(!menuOpen)
+  const toggleAuthMode = () => {
+    setIsSignup(!isSignup)
+    setFormData({ email: "", password: "", confirm: "" })
+    setSuccessMsg("")
   };
 
-  // ⭐ Smooth scroll listener (passive for performance)
-  useEffect(() => {
-    const handleScroll = () => setScrolled(window.scrollY > 50);
-    window.addEventListener("scroll", handleScroll, { passive: true });
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value })
+  };
 
-  const toggleMenu = () => setMenuOpen(!menuOpen);
+  const handleSubmit = (e) => {
+    e.preventDefault()
+
+    if (isSignup && formData.password !== formData.confirm) {
+      setSuccessMsg("Passwords do not match")
+      return;
+    }
+
+    setSuccessMsg(isSignup ? "Signup Successful!" : "Login Successful!")
+    setFormData({ email: "", password: "", confirm: "" })
+
+    setTimeout(() => {
+      setSuccessMsg("")
+      setShowLogin(false)
+    }, 2000)
+  };
 
   return (
     <>
-     <nav
-  className={`${styles.navbar} 
-    ${mounted && scrolled ? styles.scrolled : ""} 
-    ${pathname !== "/" ? styles.notHome : ""}`}
-  aria-label="Main Navigation"
->
-
-        {/* Logo */}
+      <nav
+        className={`${styles.navbar} 
+          ${scrolled ? styles.scrolled : ""} 
+          ${pathname !== "/" ? styles.notHome : ""}`}
+      >
         <div className={styles.logo}>
-            <h1>Furnkaar</h1>
-         
+          Furnkaar
           <span className={styles.tagline}>
             The Signature Collection by Shilpkaar Furnitures
           </span>
         </div>
 
-        {/* Mobile Menu Icon */}
         <div className={styles.menuIcon} onClick={toggleMenu}>
           {menuOpen ? <FaTimes /> : <FaBars />}
         </div>
 
-        {/* Nav Links */}
-        <ul className={`${styles.navLinks} ${menuOpen ? styles.open : ""}`}>
-          <li>
-            <Link
-              href="/en"
-              className={
-                pathname === "/en" ||
-                pathname === "/hi" ||
-                pathname === "/"
-                  ? styles.active
-                  : ""
-              }
-            >
-              Home
-            </Link>
-          </li>
-
-          <li>
-            <Link
-              href="/about"
-              className={pathname === "/about" ? styles.active : ""}
-            >
-              About
-            </Link>
-          </li>
-
-          <li>
-            <Link
-              href="/machines"
-              className={pathname === "/machines" ? styles.active : ""}
-            >
-              Our Machines
-            </Link>
-          </li>
-
-          <li>
-            <Link
-              href="/catalog"
-              className={pathname === "/catalog" ? styles.active : ""}
-            >
-              Product Catalog
-            </Link>
-          </li>
-
-          <li>
-            <Link
-              href="/faq"
-              className={pathname === "/faq" ? styles.active : ""}
-            >
-              FAQ
-            </Link>
-          </li>
-
-          <li>
-            <Link
-              href="/contact"
-              className={pathname === "/contact" ? styles.active : ""}
-            >
-              Contact
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/blog"
-              className={pathname === "/blog" ? styles.active : ""}
-            >
-              Blog
-            </Link>
-          </li>
-        </ul>
-
-        {/* CTA */}
+        <div className={`${styles.navLinks} ${menuOpen ? styles.open : ""}`}>
+          <Link href="/" className={mounted && pathname === "/" ? styles.active : ""}>Home</Link >
+          <Link href="/about" className={mounted && pathname === "/about" ? styles.active : ""}>About</Link >
+          <Link href="/machines" className={mounted && pathname === "/machines" ? styles.active : ""}>Our Machines</Link >
+          <Link href="/catalog" className={mounted && pathname === "/catalog" ? styles.active : ""}>Product Catalog</Link >
+          <Link href="/faq" className={mounted && pathname === "/faq" ? styles.active : ""}>FAQ</Link >
+          <Link href="/contact" className={mounted && pathname === "/contact" ? styles.active : ""}>Contact</Link >
+        </div>
         <div className={styles.ctaContainer}>
-          <CTAButton desktop={true} />
+<CTAButton desktop={true} />
         </div>
 
-        {/* Language Button */}
-        <button className={styles.langBtn} onClick={switchLang}>
-          {isHindi ? "EN" : "हिन्दी"}
-        </button>
       </nav>
     </>
   );

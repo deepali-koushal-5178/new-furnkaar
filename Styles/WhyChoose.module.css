@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .whychoose {
   padding: 90px 20px;
   background: linear-gradient(to bottom, #fffaf4, #ffffff);
@@ -115,5 +116,71 @@
 
   .quality {
     margin-top: 45px;
+=======
+.section {
+  padding: 80px 20px;
+  text-align: center;
+  background: #fff;
+}
+
+.section h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #222;
+}
+
+.intro {
+  max-width: 750px;
+  margin: 0 auto 50px;
+  color: #555;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
+.card {
+  background: #fafafa;
+  border-radius: 14px;
+  padding: 25px 20px;
+  min-height: 180px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 7px 18px rgba(0,0,0,0.12);
+}
+
+.icon {
+  font-size: 2rem;
+  color: #f68b1e;
+  margin-bottom: 12px;
+}
+
+.card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  color: #111;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+@media (max-width: 600px) {
+  .card {
+    padding: 20px 16px;
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   }
 }

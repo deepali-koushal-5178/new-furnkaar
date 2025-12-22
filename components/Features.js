@@ -5,6 +5,10 @@ import { MdCancel } from "react-icons/md";
 
 export default function Features() {
   return (
+<<<<<<< HEAD
+=======
+    
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
     <section className={styles.features}>
       <h2>Why Traditional Carpentry Costs You More Than You Think</h2>
       <p className={styles.intro}>

@@ -22,7 +22,11 @@ export default function AboutPage() {
                     </p>
                     <p>
                         At <strong>Shilpkaar Furnitures</strong>, we’ve built a legacy of
+<<<<<<< HEAD
                         precision engineering and fine detailing. <strong>Furnkaar </strong>
+=======
+                        precision engineering and fine detailing. <strong>Furnkaar</strong>
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
                         carries this heritage forward — offering refined, factory-finished
                         furniture that blends beauty, comfort, and durability. Each piece
                         is thoughtfully designed to represent a perfect balance of art
@@ -30,7 +34,11 @@ export default function AboutPage() {
                     </p>
                     <p>
                         Based in Indore, our in-house facility is powered by modern
+<<<<<<< HEAD
                         <strong> CNC</strong> and <strong>edge-banding</strong>
+=======
+                        <strong> CNC</strong> and <strong>German edge-banding</strong>
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
                         technology. From modular kitchens and wardrobes to statement
                         pieces and luxury interiors, Furnkaar by Shilpkaar ensures every
                         product is crafted with unmatched precision and timeless aesthetics.

@@ -19,7 +19,11 @@ export default function Hero() {
         <div className={styles.content}>
           <h1>Custom Furniture. Factory Precision. Crafted in Indore.</h1>
           <p>
+<<<<<<< HEAD
             We design and build custom-finish modular furniture for homes, offices, and commercial spaces — built with precision, durability, and elegant finish.
+=======
+            We design and manufacture modular furniture for homes, offices, and commercial spaces — built with precision, durability, and elegant finish.
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
           </p>
           <a
             href="https://wa.me/918446004545?text=Hi%20Team%20Shilpkaar!%20I%20would%20like%20to%20discuss%20a%20custom%20furniture%20project."

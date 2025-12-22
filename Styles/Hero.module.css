@@ -1,5 +1,9 @@
 .hero {
+<<<<<<< HEAD
   background: url("/images/Below-stairs/stair2.jpg") center/cover no-repeat;
+=======
+  background: url("/images/hero.jpg") center/cover no-repeat;
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   height: 100vh;
   display: flex;
   align-items: center;

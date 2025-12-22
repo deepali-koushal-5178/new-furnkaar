@@ -84,7 +84,11 @@ export default function ContactPage() {
                     </form>
 
                     <div className={styles.contactInfo}>
+<<<<<<< HEAD
                         <p><strong>Phone:</strong> +91-8319266986</p>
+=======
+                        <p><strong>Phone:</strong> +91 8319266986</p>
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
                         <p><strong>Email:</strong> shilpkaarfurnitures@gmail.com</p>
                         <p><strong>Address:</strong> Shop 2, Gayathri Paradise, Opp. Gayathri Mandir, Kanadia, Indore – 452016</p>
                     </div>
@@ -103,7 +107,13 @@ export default function ContactPage() {
                     <div className={styles.extraInfo}>
                         <h3>Opening Hours</h3>
                         <ul>
+<<<<<<< HEAD
                             <li>Mon — Sun: 10:00 AM — 7:00 PM</li>
+=======
+                            <li>Mon — Fri: 10:00am — 6:00pm</li>
+                            <li>Sat: 10:00am — 2:00pm</li>
+                            <li>Sun: Closed</li>
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
                         </ul>
                         {/* 
             <h4>Follow Us</h4>

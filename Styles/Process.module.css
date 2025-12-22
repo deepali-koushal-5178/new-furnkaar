@@ -42,12 +42,21 @@
 
 .imgBox {
   width: 100%;
+<<<<<<< HEAD
   height: 180px;
+=======
+  aspect-ratio: 4 / 3;   /* keeps image perfect */
+  position: relative;
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   overflow: hidden;
   border-radius: 12px;
   margin-bottom: 15px;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
 .imgBox img {
   width: 100%;
   height: 100%;
@@ -75,8 +84,13 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+<<<<<<< HEAD
   border-radius: 12px;
 }
+=======
+}
+
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
 @media (max-width: 900px) {
   .steps {
     grid-template-columns: 1fr 1fr;

@@ -5,10 +5,17 @@ export default function ContactPage() {
     <footer id="contact" className={styles.contact}>
       <h2>Contact Us</h2>
       <p>
+<<<<<<< HEAD
         <strong>Address:</strong>Shop 2, Gayathri Paradise, Opp. Gayathri Mandir, Kanadia, Indore – 452016
       </p>
       <p>
         <strong>Phone:</strong> <a href="tel:+91-8319266986">+91-8319266986</a>
+=======
+        <strong>Address:</strong> Shop 2, Gayathri Paradise, Opp. Gayathri Mandir, Kanadia, Indore – 452016
+      </p>
+      <p>
+        <strong>Phone:</strong> <a href="tel:8319266986">8319266986</a>
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
       </p>
       <p>
         <strong>Email:</strong> shilpkaarfurnitures@gmail.com

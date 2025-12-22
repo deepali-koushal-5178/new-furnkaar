@@ -3,7 +3,10 @@
   top: 20px;
   left: 50%;
   transform: translateX(-50%);
+<<<<<<< HEAD
   transition: all 0.3s ease;
+=======
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   width: 85%;
   max-width: 1100px;
   display: flex;
@@ -13,13 +16,21 @@
   border: 1px solid rgba(255, 255, 255, 0.6);
   border-radius: 50px;
   background: rgba(255, 255, 255, 0.1);
+<<<<<<< HEAD
   backdrop-filter: blur(10px);
   color: white;
   z-index: 100;
+=======
+  backdrop-filter: blur(6px); /* optimized */
+  color: white;
+  z-index: 100;
+  transition: all 0.3s ease;
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   box-shadow: 0 4px 20px rgba(255, 255, 255, 0.15);
 }
 
 .navbar.scrolled {
+<<<<<<< HEAD
   background: rgba(0, 0, 0, 0.7);
   border-color: rgba(255, 255, 255, 0.3);
   backdrop-filter: blur(6px);
@@ -32,11 +43,34 @@
   font-weight: 600;
   text-decoration: none;
   color: white;
+=======
+  background: rgba(0, 0, 0, 0.6);
+  border-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(4px);
+  top: 10px;
+}
+
+.navbar.notHome {
+  background: rgba(20, 20, 20, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+}
+
+/* LOGO */
+.logo h1 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0;
+  color: white;
+  cursor: pointer;
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
 }
 
 .tagline {
   display: block;
   font-size: 0.8rem;
+<<<<<<< HEAD
   font-weight: 400;
   opacity: 0.8;
   margin-top: 2px;
@@ -63,18 +97,56 @@
   font-weight: 600;
 } */
 
+=======
+  opacity: 0.8;
+  color: #f5f5f5;
+}
+
+/* NAV LINKS */
+.navLinks {
+  display: flex;
+  gap: 23px;
+  white-space: nowrap; /* prevents breaking into 2 lines */
+}
+
+.navLinks li {
+  list-style: none;
+}
+
+.navLinks a {
+  position: relative;
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+  padding-bottom: 3px;
+  transition: color 0.3s ease;
+}
+
+.navLinks a:hover {
+  color: #f68b1e;
+}
+
+/* ⭐ PERFECT CENTER UNDERLINE */
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
 .navLinks a.active::after {
   content: "";
   position: absolute;
   left: 50%;
+<<<<<<< HEAD
   bottom: -5px;
   transform: translateX(-50%);
   width: 40%;
+=======
+  bottom: -3px;
+  transform: translateX(-50%);
+  width: 60%;
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   height: 2px;
   background: #f68b1e;
   border-radius: 10px;
   box-shadow: 0 0 6px #f68b1e;
 }
+<<<<<<< HEAD
 .navLinks a:hover {
   color: #f68b1e;
 }
@@ -250,6 +322,42 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+=======
+
+/* MENU ICON */
+.menuIcon {
+  display: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  color: white;
+}
+
+/* CTA BUTTON */
+.ctaContainer {
+  margin-left: 5%;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+/* LANG BUTTON */
+.langBtn {
+  padding: 6px 14px;
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+}
+
+.langBtn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .navbar {
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
     width: 90%;
     padding: 10px 20px;
     top: 10px;
@@ -258,23 +366,34 @@
   .menuIcon {
     display: block;
     margin-left: auto;
+<<<<<<< HEAD
     font-size: 1.8rem;
     cursor: pointer;
     color: white;
+=======
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   }
 
   .navLinks {
     display: none;
     flex-direction: column;
+<<<<<<< HEAD
     align-items: center;
+=======
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
     background: rgba(0, 0, 0, 0.9);
     position: absolute;
     top: 100%;
     right: 0;
     width: 100%;
+<<<<<<< HEAD
     border-radius: 0 0 20px 20px;
     padding: 15px 0;
     z-index: 100;
+=======
+    border-radius: 0 0 15px 15px;
+    padding: 15px 0;
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   }
 
   .navLinks.open {
@@ -292,4 +411,11 @@
       transform: translateY(0);
     }
   }
+<<<<<<< HEAD
+=======
+
+  .ctaContainer {
+    display: none !important;
+  }
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
 }

@@ -9,6 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@emailjs/browser": "^4.4.1",
+    "framer-motion": "^12.23.24",
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
     "next": "16.0.0",
     "react": "19.2.0",
     "react-dom": "19.2.0",
@@ -17,6 +22,10 @@
     "swiper": "^12.0.3"
   },
   "devDependencies": {
+<<<<<<< HEAD
+=======
+    "baseline-browser-mapping": "^2.9.11",
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
     "eslint": "^9",
     "eslint-config-next": "16.0.0"
   }

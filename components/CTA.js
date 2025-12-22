@@ -17,7 +17,11 @@ export default function CTA() {
           </a>
 
           <a
+<<<<<<< HEAD
             href="https://wa.me/9184460 04545?text=Hi!%20I%20want%20to%20discuss%20a%20furniture%20project."
+=======
+            href="https://wa.me/9183192 66986?text=Hi!%20I%20want%20to%20discuss%20a%20furniture%20project."
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
             target="_blank"
             rel="noopener noreferrer"
             className={styles.whatsappBtn}

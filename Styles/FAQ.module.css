@@ -1,5 +1,9 @@
 .faq {
+<<<<<<< HEAD
   padding: 80px 20px;
+=======
+  padding: 120px 20px 80px; 
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   background: #fafafa;
   text-align: center;
 }
@@ -82,7 +86,11 @@
 
 @media (max-width: 768px) {
   .faq {
+<<<<<<< HEAD
     padding: 60px 16px;
+=======
+    padding: 110px 16px 70px;
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
   }
 
   .question {

@@ -17,6 +17,7 @@ export default function Process() {
         {steps.map((step) => (
           <div key={step.id}>
             <div className={styles.imgBox}>
+<<<<<<< HEAD
               <Image
                 src={step.img}
                 alt={step.alt}
@@ -24,6 +25,15 @@ export default function Process() {
                 height={250}
                 className={styles.stepImage}
               />
+=======
+             <Image
+  src={step.img}
+  alt={step.alt}
+  fill
+  className={styles.stepImage}
+  sizes="(max-width: 768px) 100vw, 33vw"
+/>
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
             </div>
             <h3>{step.id}. {step.title}</h3>
             <p>{step.desc}</p>

@@ -4,6 +4,10 @@ import { usePathname } from "next/navigation";
 import { FaBars, FaTimes, FaUserCircle, FaEnvelope, FaLock, FaCheckCircle } from "react-icons/fa";
 import styles from "../Styles/Navbar.module.css";
 import Link from "next/link";
+<<<<<<< HEAD
+=======
+import CTAButton from "./CTAButton";
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
 
 
 export default function Navbar() {
@@ -14,6 +18,15 @@ export default function Navbar() {
   const [formData, setFormData] = useState({ email: "", password: "", confirm: "" })
   const [successMsg, setSuccessMsg] = useState("")
   const pathname = usePathname()
+<<<<<<< HEAD
+=======
+  const [mounted, setMounted] = useState(false);
+
+useEffect(() => {
+  setMounted(true);
+}, []);
+
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 50)
@@ -57,7 +70,11 @@ export default function Navbar() {
           ${pathname !== "/" ? styles.notHome : ""}`}
       >
         <div className={styles.logo}>
+<<<<<<< HEAD
           Furnkaar 
+=======
+          Furnkaar
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
           <span className={styles.tagline}>
             The Signature Collection by Shilpkaar Furnitures
           </span>
@@ -68,6 +85,7 @@ export default function Navbar() {
         </div>
 
         <div className={`${styles.navLinks} ${menuOpen ? styles.open : ""}`}>
+<<<<<<< HEAD
           <Link  href="/" className={pathname === "/" ? styles.active : ""}>Home</Link >
           <Link  href="/about" className={pathname === "/about" ? styles.active : ""}>About US</Link >
           <Link  href="/machines" className={pathname === "/machines" ? styles.active : ""}>Our Machines</Link >
@@ -167,6 +185,20 @@ export default function Navbar() {
           </div>
         </div>
       )} */}
+=======
+          <Link href="/" className={mounted && pathname === "/" ? styles.active : ""}>Home</Link >
+          <Link href="/about" className={mounted && pathname === "/about" ? styles.active : ""}>About</Link >
+          <Link href="/machines" className={mounted && pathname === "/machines" ? styles.active : ""}>Our Machines</Link >
+          <Link href="/catalog" className={mounted && pathname === "/catalog" ? styles.active : ""}>Product Catalog</Link >
+          <Link href="/faq" className={mounted && pathname === "/faq" ? styles.active : ""}>FAQ</Link >
+          <Link href="/contact" className={mounted && pathname === "/contact" ? styles.active : ""}>Contact</Link >
+        </div>
+        <div className={styles.ctaContainer}>
+<CTAButton desktop={true} />
+        </div>
+
+      </nav>
+>>>>>>> dda00465d548745ad5146b527bf5e6a29fa0f11d
     </>
   );
 }
